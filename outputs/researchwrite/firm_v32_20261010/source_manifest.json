@@ -1,0 +1,16 @@
+[
+  {
+    "sha256": "e82150a52e56d1cd276e669d5c300b2c55861b1d50202ddd35d0183529ffb608",
+    "path": "A:\\桌面\\制度性开放\\审稿意见\\手动改和写\\审稿人回复.docx",
+    "label": "teacher",
+    "snapshot": "A:\\桌面\\study\\outputs\\researchwrite\\firm_v32_20261010\\sources\\teacher.docx",
+    "bytes": 324547
+  },
+  {
+    "sha256": "891b8eadaa6de03b7201382f236c9585dffa9f7a611729ea5c9e05e5caa337be",
+    "path": "A:\\桌面\\study\\企业微观层面_v3.1.docx",
+    "label": "current",
+    "snapshot": "A:\\桌面\\study\\outputs\\researchwrite\\firm_v32_20261010\\sources\\current.docx",
+    "bytes": 47776
+  }
+]

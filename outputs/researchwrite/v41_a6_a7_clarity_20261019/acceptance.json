@@ -1,0 +1,31 @@
+{
+  "output": "A:\\桌面\\study\\企业微观层面_v4.1.docx",
+  "sha256": "6fbb2397f095b11e08263c061b4dc5830dc89d9cbf9387553b2e89ed341fbbb5",
+  "overwritten_existing_version": true,
+  "edited_sections": [
+    "A.6",
+    "A.7"
+  ],
+  "all_other_sections_and_parts_preserved": true,
+  "numbered_equations_preserved_exactly": 6,
+  "word_open_read_only": true,
+  "pages": 7,
+  "visually_checked_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "native_omml": 60,
+  "editable_tables": 3,
+  "checks_passed": 14,
+  "headers_blank": true,
+  "page_numbers_retained": true,
+  "no_enabled_keepNext_keepLines_pageBreakBefore": true,
+  "example": "Hypothetical 200/800 vs 300/900 gives 20% vs25%, target5pp; no estimated result claimed.",
+  "skill_used": "docx",
+  "agents_used": false
+}

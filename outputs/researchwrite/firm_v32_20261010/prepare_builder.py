@@ -1,0 +1,26 @@
+from pathlib import Path
+ROOT=Path(__file__).resolve().parent
+old=ROOT.parent/'firm_v3_20261009'
+text=(old/'build_v3.py').read_text(encoding='utf-8')
+text=text.replace("SOURCE=PROJECT/'企业微观层面_新方案_框架重写版.docx'", "SOURCE=ROOT/'sources/current.docx'")
+text=text.replace("TARGET=PROJECT/'企业微观层面_v3.docx'", "TARGET=PROJECT/'企业微观层面_v3.2.docx'")
+text=text.replace("ROOT/'proposal_v3.md'", "ROOT/'proposal_v32.md'")
+text=text.replace("ROOT/'v3_pending.docx'", "ROOT/'v32_pending.docx'")
+text=text.replace("encoding='utf-8'))\n    for item in manifest:assert hashlib.sha256(Path(item['path']).read_bytes()).hexdigest()==item['sha256'],item['path']+' changed'", "encoding='utf-8-sig'))\n    for item in manifest:assert hashlib.sha256(read_shared(item['path'])).hexdigest()==item['sha256'],item['path']+' changed'")
+text=text.replace("from docx.opc.constants import RELATIONSHIP_TYPE as RT", "from docx.opc.constants import RELATIONSHIP_TYPE as RT\nfrom shared_read import read_shared")
+text=text.replace('附录A 外资准入负面清单的政策测度、跨国投资成本识别与一般均衡反事实','附录A 外资准入改革的企业效应、跨国生产成本识别与一般均衡反事实')
+text=text.replace('政策逐版编码与GB2017行业匹配\\n大语言模型辅助识别，人工核查法律适用范围','2011与2015目录分别编码并匹配GB2017\\n结合其他有效规定，核实本轮准入放宽')
+text=text.replace('固定企业改革前业务，逐版判断政策待遇\\n确定改革事件及适用范围','固定公告前企业业务与适用条件\\n判定处理组和对照组，确定2015年改革观察窗口')
+text=text.replace('企业—年份基准分析\\n原有企业的规模、控制权与存续','单轮改革企业—年份DID\\n原有企业的生产、控制权与存续')
+text=text.replace('GB四位小类—地区—年份补充分析\\n包含新设企业的完整行业生产','同轮改革的行业补充分析\\n完整行业生产，包括新设企业')
+text=text.replace('解释原有企业的调整\\n核实原有企业产出在部门中的覆盖范围','分别核查外国与国内生产的预测范围\\n不能机械取两套估计样本交集')
+text=text.replace('分别估计外国和国内控制生产\\n按真实产出加总至模型部门','分别估计外国与国内控制生产\\n行业总产出已含原有企业产出')
+text=text.replace('核对生产覆盖、部门归属及模型比较范围\\n有完整生产依据或明确补充假设时，形成部门目标','核实完整部门产出、观察期限及均衡条件\\n有对应依据时形成所选改革的部门生产目标')
+text=text.replace('部门MP成本反演 → 一般均衡反事实','部门MP成本反演 → 同轮改革有无的一般均衡比较')
+text=text.replace('图A1 企业估计与部门成本反演的衔接','图A1 单轮改革识别与部门成本反演')
+text=text.replace("ratios=([.26,.74] if table_count==1 else [.12,.27,.61] if table_count==2 else [.19,.38,.43])", "ratios=([.26,.74] if table_count==1 else [.16,.36,.48] if table_count==2 else [.26,.74])")
+text=text.replace("assert len(xml.xpath('//w:footnoteReference',namespaces=NS))==3", "assert len(xml.xpath('//w:footnoteReference',namespaces=NS))==len(foot_refs)")
+(ROOT/'build_v32.py').write_text(text,encoding='utf-8')
+for name in ['render_word.ps1','render_pages.py']:
+    (ROOT/name).write_bytes((old/name).read_bytes())
+print('Builder prepared; source and final documents untouched.')

@@ -1,0 +1,17 @@
+{
+  "source_sha256": "797a3563f9d79acb77d41ef63ea2226f07c9b12f5f0c55f001b760060f776f5f",
+  "candidate_sha256": "8439ae256dbfca5a23ec44c1486fdf68e150d6bb8d0a7c5233fd175ce48feba9",
+  "changed_paragraphs": 92,
+  "ordinary_breaks_before": [
+    106,
+    159
+  ],
+  "removed_breaks_from": [
+    71,
+    112
+  ],
+  "removed_header_parts": [],
+  "native_math_objects_unchanged": 69,
+  "footer_bytes_unchanged": true,
+  "pagination_controls_disabled": true
+}

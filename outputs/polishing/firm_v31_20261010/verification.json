@@ -1,0 +1,37 @@
+{
+  "source": "A:\\桌面\\study\\企业微观层面_v3.01.docx",
+  "output": "A:\\桌面\\study\\企业微观层面_v3.1.docx",
+  "source_sha256": "432a14738c835627fe28d14a48977d80dabb4ae1d42cc063e756cd0005b1b3d8",
+  "output_sha256": "891b8eadaa6de03b7201382f236c9585dffa9f7a611729ea5c9e05e5caa337be",
+  "changed_paragraphs": [
+    8,
+    82
+  ],
+  "editable_math_objects": 116,
+  "tables": 4,
+  "changes": [
+    {
+      "old": "企业适用的政策按实际生效时间确定。只有年度产出数据时，将年内发生政策转换的年份作为过渡年度单列，并检验排除该年度后的结果。",
+      "new": "根据政策实际生效日期确定改革年份，并通过事件研究考察改革当年及随后各年的影响。对临近年末生效的政策，结合实施安排说明其年度归属。"
+    },
+    {
+      "old": "表示完整政策期内适用的版本。",
+      "new": "表示按上述规则确定的年度政策版本。"
+    },
+    {
+      "old": "为改革生效年份，",
+      "new": "为按A.1.1确定的改革年份，"
+    }
+  ],
+  "checks": "Passed: source unchanged, only two paragraphs changed, all formulas and non-text structure unchanged, all other package parts identical, ZIP integrity passed",
+  "render_validation": {
+    "engine": "Microsoft Word isolated read-only export",
+    "pages": 15,
+    "changed_pages_visually_checked": [
+      1,
+      6
+    ],
+    "other_13_pages": "Pixel-identical to previously checked source render",
+    "result": "No clipping, overlap, formula loss or pagination changes observed"
+  }
+}

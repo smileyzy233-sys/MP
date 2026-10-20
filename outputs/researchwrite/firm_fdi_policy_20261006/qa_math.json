@@ -1,0 +1,22 @@
+{
+  "sum_then_foreign_control": {
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mi>f</ns0:mi></ns0:munder><ns0:msubsup><ns0:mi>D</ns0:mi><ns0:mrow><ns0:mi>f</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow><ns0:mi>F</ns0:mi></ns0:msubsup><ns0:msub><ns0:mi>Q</ns0:mi><ns0:mrow><ns0:mi>f</ns0:mi><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub></ns0:mrow></ns0:math>",
+    "native_text": "fDftFQfurt"
+  },
+  "cost_sup_and_sub": {
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:msubsup><ns0:mi>d</ns0:mi><ns0:mrow><ns0:mi>C</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow><ns0:mrow><ns0:mi>M</ns0:mi><ns0:mi>P</ns0:mi><ns0:mo>,</ns0:mo><ns0:mstyle mathvariant=\"normal\"><ns0:mrow><ns0:mi>c</ns0:mi><ns0:mi>f</ns0:mi></ns0:mrow></ns0:mstyle></ns0:mrow></ns0:msubsup></ns0:math>",
+    "native_text": "dCmjMP,cf"
+  },
+  "event_indicator": {
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mrow><ns0:mi>h</ns0:mi><ns0:mo>≠</ns0:mo><ns0:mo>-</ns0:mo><ns0:mn>1</ns0:mn></ns0:mrow></ns0:munder><ns0:msubsup><ns0:mi>β</ns0:mi><ns0:mrow><ns0:mi>e</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>h</ns0:mi></ns0:mrow><ns0:mi>q</ns0:mi></ns0:msubsup><ns0:msub><ns0:mi>T</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi></ns0:mrow></ns0:msub><ns0:mstyle mathvariant=\"bold\"><ns0:mn>1</ns0:mn></ns0:mstyle><ns0:mo>(</ns0:mo><ns0:mi>t</ns0:mi><ns0:mo>-</ns0:mo><ns0:msub><ns0:mi>t</ns0:mi><ns0:mi>e</ns0:mi></ns0:msub><ns0:mo>=</ns0:mo><ns0:mi>h</ns0:mi><ns0:mo>)</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "h≠-1βe,hqTur,e1(t-te=h)"
+  },
+  "hat_derivative": {
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:msub><ns0:mover accent=\"true\"><ns0:mi>ξ</ns0:mi><ns0:mo>^</ns0:mo></ns0:mover><ns0:mrow><ns0:mi>C</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>=</ns0:mo><ns0:mi mathvariant=\"normal\">exp</ns0:mi><ns0:mo>(</ns0:mo><ns0:mo>-</ns0:mo><ns0:msub><ns0:mi>δ</ns0:mi><ns0:mrow><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>)</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "ξCmj=exp(-δmj)"
+  },
+  "cases": {
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mfenced open=\"{\" close=\"\"><ns0:mtable columnalign=\"left left\" columnspacing=\"0.8em\"><ns0:mtr><ns0:mtd><ns0:mrow><ns0:mi mathvariant=\"normal\">exp</ns0:mi><ns0:mo>(</ns0:mo><ns0:mo>-</ns0:mo><ns0:msub><ns0:mover accent=\"true\"><ns0:mi>δ</ns0:mi><ns0:mo>^</ns0:mo></ns0:mover><ns0:mrow><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>)</ns0:mo><ns0:mo>,</ns0:mo></ns0:mrow></ns0:mtd><ns0:mtd><ns0:mrow><ns0:mi>i</ns0:mi><ns0:mo>=</ns0:mo><ns0:mi>C</ns0:mi><ns0:mo>,</ns0:mo></ns0:mrow></ns0:mtd></ns0:mtr><ns0:mtr><ns0:mtd><ns0:mrow><ns0:mn>1</ns0:mn><ns0:mo>,</ns0:mo></ns0:mrow></ns0:mtd><ns0:mtd><ns0:mrow><ns0:mtext mathvariant=\"normal\">其他关系</ns0:mtext><ns0:mo>,</ns0:mo></ns0:mrow></ns0:mtd></ns0:mtr></ns0:mtable></ns0:mfenced></ns0:math>",
+    "native_text": "exp(-δmj),i=C,1,其他关系,"
+  }
+}

@@ -1,0 +1,472 @@
+[
+  {
+    "latex": "f",
+    "display": false,
+    "text": "f"
+  },
+  {
+    "latex": "c",
+    "display": false,
+    "text": "c"
+  },
+  {
+    "latex": "r",
+    "display": false,
+    "text": "r"
+  },
+  {
+    "latex": "t",
+    "display": false,
+    "text": "t"
+  },
+  {
+    "latex": "m",
+    "display": false,
+    "text": "m"
+  },
+  {
+    "latex": "i",
+    "display": false,
+    "text": "i"
+  },
+  {
+    "latex": "n",
+    "display": false,
+    "text": "n"
+  },
+  {
+    "latex": "j",
+    "display": false,
+    "text": "j"
+  },
+  {
+    "latex": "C",
+    "display": false,
+    "text": "C"
+  },
+  {
+    "latex": "\\mathrm{Treat}_f\\times\\mathrm{Post}_t\\ \\to\\ \\widehat{\\boldsymbol\\mu}\\ \\to\\ \\widehat{\\boldsymbol\\delta}\\ \\to\\ \\widehat\\xi_{Cmj}\\ \\to\\ \\{X,P,w,N,W\\}.",
+    "display": true,
+    "text": "Treatf×Postt→μ→δ→ξCmj→{X,P,w,N,W}."
+  },
+  {
+    "latex": "\\mathrm{Treat}_f",
+    "display": false,
+    "text": "Treatf"
+  },
+  {
+    "latex": "\\mathrm{Post}_t",
+    "display": false,
+    "text": "Postt"
+  },
+  {
+    "latex": "\\widehat{\\boldsymbol\\mu}",
+    "display": false,
+    "text": "μ"
+  },
+  {
+    "latex": "\\widehat{\\boldsymbol\\delta}",
+    "display": false,
+    "text": "δ"
+  },
+  {
+    "latex": "\\widehat\\xi_{Cmj}",
+    "display": false,
+    "text": "ξCmj"
+  },
+  {
+    "latex": "X",
+    "display": false,
+    "text": "X"
+  },
+  {
+    "latex": "P",
+    "display": false,
+    "text": "P"
+  },
+  {
+    "latex": "w",
+    "display": false,
+    "text": "w"
+  },
+  {
+    "latex": "N",
+    "display": false,
+    "text": "N"
+  },
+  {
+    "latex": "W",
+    "display": false,
+    "text": "W"
+  },
+  {
+    "latex": "q_{f0}",
+    "display": false,
+    "text": "qf0"
+  },
+  {
+    "latex": "v",
+    "display": false,
+    "text": "v"
+  },
+  {
+    "latex": "p",
+    "display": false,
+    "text": "p"
+  },
+  {
+    "latex": "A_{pv}",
+    "display": false,
+    "text": "Apv"
+  },
+  {
+    "latex": "s_{fpv}=\\operatorname{cos}\\!\\left[\\operatorname{emb}(q_{f0}),\\operatorname{emb}(A_{pv})\\right].",
+    "display": true,
+    "text": "sfpv=cos[emb(qf0),emb(Apv)]."
+  },
+  {
+    "latex": "\\mathrm{Treat}_f=\\begin{cases}1,&\\text{确认受到本轮放宽影响},\\\\0,&\\text{确认未受相关放宽且符合对照条件},\\\\\\mathrm{NA},&\\text{业务或法律适用尚不明确}.\\end{cases}",
+    "display": true,
+    "text": "Treatf=1,确认受到本轮放宽影响,0,确认未受相关放宽且符合对照条件,NA,业务或法律适用尚不明确."
+  },
+  {
+    "latex": "\\mathrm{Post}_t=\\mathbf1(t\\ge2015)",
+    "display": false,
+    "text": "Postt=1(t≥2015)"
+  },
+  {
+    "latex": "Q_{ft}",
+    "display": false,
+    "text": "Qft"
+  },
+  {
+    "latex": "\\mathcal X",
+    "display": false,
+    "text": "X"
+  },
+  {
+    "latex": "b(f)",
+    "display": false,
+    "text": "b(f)"
+  },
+  {
+    "latex": "r_{f0}",
+    "display": false,
+    "text": "rf0"
+  },
+  {
+    "latex": "\\mathbb E[Q_{ft}\\mid\\mathcal X]=\\exp[\\alpha_f+\\lambda_{b(f)t}+\\eta_{r_{f0}t}+L_{ft}].",
+    "display": true,
+    "text": "E[Qft|X]=exp[αf+λb(f)t+ηrf0t+Lft]."
+  },
+  {
+    "latex": "L_{ft}=\\beta\\,\\mathrm{Treat}_f\\times\\mathrm{Post}_t.",
+    "display": true,
+    "text": "Lft=βTreatf×Postt."
+  },
+  {
+    "latex": "\\alpha_f",
+    "display": false,
+    "text": "αf"
+  },
+  {
+    "latex": "\\lambda",
+    "display": false,
+    "text": "λ"
+  },
+  {
+    "latex": "\\eta",
+    "display": false,
+    "text": "η"
+  },
+  {
+    "latex": "b(f)",
+    "display": false,
+    "text": "b(f)"
+  },
+  {
+    "latex": "\\exp(\\beta)-1",
+    "display": false,
+    "text": "exp(β)-1"
+  },
+  {
+    "latex": "L_{ft}=\\sum_{h\\in\\mathcal H,\\,h\\ne-2}\\beta_h\\,\\mathrm{Treat}_f\\mathbf1(t-2015=h).",
+    "display": true,
+    "text": "Lft=h∈H,h≠-2βhTreatf1(t-2015=h)."
+  },
+  {
+    "latex": "h",
+    "display": false,
+    "text": "h"
+  },
+  {
+    "latex": "\\mathcal H",
+    "display": false,
+    "text": "H"
+  },
+  {
+    "latex": "h=-2",
+    "display": false,
+    "text": "h=-2"
+  },
+  {
+    "latex": "D^F_{ft}",
+    "display": false,
+    "text": "DftF"
+  },
+  {
+    "latex": "D^F_{ft}Q_{ft}",
+    "display": false,
+    "text": "DftFQft"
+  },
+  {
+    "latex": "(1-D^F_{ft})Q_{ft}",
+    "display": false,
+    "text": "(1-DftF)Qft"
+  },
+  {
+    "latex": "\\ell",
+    "display": false,
+    "text": "ℓ"
+  },
+  {
+    "latex": "Q_{f\\ell rt}",
+    "display": false,
+    "text": "Qfℓrt"
+  },
+  {
+    "latex": "\\mathcal B_{jt}",
+    "display": false,
+    "text": "Bjt"
+  },
+  {
+    "latex": "j",
+    "display": false,
+    "text": "j"
+  },
+  {
+    "latex": "F_{jt}=\\sum_{(f,\\ell,r)\\in\\mathcal B_{jt}}D^F_{ft}Q_{f\\ell rt},\\quad D_{jt}=\\sum_{(f,\\ell,r)\\in\\mathcal B_{jt}}(1-D^F_{ft})Q_{f\\ell rt}.",
+    "display": true,
+    "text": "Fjt=(f,ℓ,r)∈BjtDftFQfℓrt,Djt=(f,ℓ,r)∈Bjt(1-DftF)Qfℓrt."
+  },
+  {
+    "latex": "M^{\\mathrm{obs}}_{jt}=\\frac{F_{jt}}{F_{jt}+D_{jt}}.",
+    "display": true,
+    "text": "Mjtobs=FjtFjt+Djt."
+  },
+  {
+    "latex": "a=1",
+    "display": false,
+    "text": "a=1"
+  },
+  {
+    "latex": "a=0",
+    "display": false,
+    "text": "a=0"
+  },
+  {
+    "latex": "g",
+    "display": false,
+    "text": "g"
+  },
+  {
+    "latex": "\\mathcal S_j",
+    "display": false,
+    "text": "Sj"
+  },
+  {
+    "latex": "j",
+    "display": false,
+    "text": "j"
+  },
+  {
+    "latex": "\\widehat M^a_{jt}=\\frac{\\sum_{g\\in\\mathcal S_j}\\widehat F^a_{gt}}{\\sum_{g\\in\\mathcal S_j}(\\widehat F^a_{gt}+\\widehat D^a_{gt})},\\qquad a\\in\\{0,1\\}.",
+    "display": true,
+    "text": "Mjta=g∈SjFgtag∈Sj(Fgta+Dgta),a∈{0,1}."
+  },
+  {
+    "latex": "\\delta_j",
+    "display": false,
+    "text": "δj"
+  },
+  {
+    "latex": "t^*",
+    "display": false,
+    "text": "t*"
+  },
+  {
+    "latex": "\\widehat\\mu_j=\\widehat M^1_{jt^*}-\\widehat M^0_{jt^*}.",
+    "display": true,
+    "text": "μj=Mjt*1-Mjt*0."
+  },
+  {
+    "latex": "\\widehat{\\boldsymbol\\mu}",
+    "display": false,
+    "text": "μ"
+  },
+  {
+    "latex": "V_j",
+    "display": false,
+    "text": "Vj"
+  },
+  {
+    "latex": "\\tau_{nCj}",
+    "display": false,
+    "text": "τnCj"
+  },
+  {
+    "latex": "n",
+    "display": false,
+    "text": "n"
+  },
+  {
+    "latex": "\\boldsymbol P",
+    "display": false,
+    "text": "P"
+  },
+  {
+    "latex": "m",
+    "display": false,
+    "text": "m"
+  },
+  {
+    "latex": "Q_{Cmj}=\\sum_n V_j(X_{nCmj},\\tau_{nCj},\\boldsymbol P),\\qquad M_{Cj}=\\frac{\\sum_{m\\ne C}Q_{Cmj}}{\\sum_m Q_{Cmj}}.",
+    "display": true,
+    "text": "QCmj=nVj(XnCmj,τnCj,P),MCj=m≠CQCmjmQCmj."
+  },
+  {
+    "latex": "X/\\tau",
+    "display": false,
+    "text": "Xτ"
+  },
+  {
+    "latex": "G^{\\chi}(\\boldsymbol\\delta)",
+    "display": false,
+    "text": "Gχ(δ)"
+  },
+  {
+    "latex": "\\chi\\in\\{\\mathrm{PE},\\mathrm{GE}\\}",
+    "display": false,
+    "text": "χ∈{PE,GE}"
+  },
+  {
+    "latex": "O",
+    "display": false,
+    "text": "O"
+  },
+  {
+    "latex": "\\boldsymbol\\epsilon(\\boldsymbol\\delta)=\\Delta O(G^{\\chi}(\\boldsymbol\\delta))-\\widehat{\\boldsymbol\\mu}.",
+    "display": true,
+    "text": "ε(δ)=ΔO(Gχ(δ))-μ."
+  },
+  {
+    "latex": "\\widehat{\\boldsymbol\\delta}=\\underset{\\boldsymbol\\delta\\in\\mathcal D}{\\arg\\min}\\ \\boldsymbol\\epsilon(\\boldsymbol\\delta)'\\boldsymbol W\\boldsymbol\\epsilon(\\boldsymbol\\delta).",
+    "display": true,
+    "text": "δ=argminδ∈Dε(δ)′Wε(δ)."
+  },
+  {
+    "latex": "\\Delta O",
+    "display": false,
+    "text": "ΔO"
+  },
+  {
+    "latex": "\\mathcal D",
+    "display": false,
+    "text": "D"
+  },
+  {
+    "latex": "\\boldsymbol W",
+    "display": false,
+    "text": "W"
+  },
+  {
+    "latex": "\\delta_j",
+    "display": false,
+    "text": "δj"
+  },
+  {
+    "latex": "F_{nj}",
+    "display": false,
+    "text": "Fnj"
+  },
+  {
+    "latex": "n",
+    "display": false,
+    "text": "n"
+  },
+  {
+    "latex": "\\xi_{imj}",
+    "display": false,
+    "text": "ξimj"
+  },
+  {
+    "latex": "m",
+    "display": false,
+    "text": "m"
+  },
+  {
+    "latex": "i",
+    "display": false,
+    "text": "i"
+  },
+  {
+    "latex": "j",
+    "display": false,
+    "text": "j"
+  },
+  {
+    "latex": "d^{\\mathrm{MP}}_{imj}=\\frac{1}{\\xi_{imj}}.",
+    "display": true,
+    "text": "dimjMP=1ξimj."
+  },
+  {
+    "latex": "\\widehat\\delta_j",
+    "display": false,
+    "text": "δj"
+  },
+  {
+    "latex": "\\widehat d^{\\mathrm{MP}}_{Cmj}=\\exp(\\widehat\\delta_j),\\qquad\\widehat\\xi_{Cmj}=\\exp(-\\widehat\\delta_j),\\quad m\\ne C.",
+    "display": true,
+    "text": "dCmjMP=exp(δj),ξCmj=exp(-δj),m≠C."
+  },
+  {
+    "latex": "\\mathcal J_R",
+    "display": false,
+    "text": "JR"
+  },
+  {
+    "latex": "\\widehat\\xi_{imj}=\\begin{cases}\\exp(-\\widehat\\delta_j),&i=C,\\ m\\ne C,\\ j\\in\\mathcal J_R,\\\\1,&\\text{其他关系}.\\end{cases}",
+    "display": true,
+    "text": "ξimj=exp(-δj),i=C,m≠C,j∈JR,1,其他关系."
+  },
+  {
+    "latex": "i=C",
+    "display": false,
+    "text": "i=C"
+  },
+  {
+    "latex": "m",
+    "display": false,
+    "text": "m"
+  },
+  {
+    "latex": "n",
+    "display": false,
+    "text": "n"
+  },
+  {
+    "latex": "\\Delta X_{nCmj}=X^{\\mathrm{cf}}_{nCmj}-X^0_{nCmj}.",
+    "display": true,
+    "text": "ΔXnCmj=XnCmjcf-XnCmj0."
+  },
+  {
+    "latex": "0",
+    "display": false,
+    "text": "0"
+  },
+  {
+    "latex": "\\mathrm{cf}",
+    "display": false,
+    "text": "cf"
+  }
+]

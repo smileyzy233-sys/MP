@@ -1,0 +1,29 @@
+{
+  "path": "A:\\桌面\\study\\企业微观层面_v4.1.docx",
+  "sha256": "679e4b7644c635938364de86e113aea0ceee175cc80cad1ba2a3cd87484c6e47",
+  "in_place": true,
+  "new_version_created": false,
+  "changed_package_parts": [
+    "word/document.xml"
+  ],
+  "numbered_equations_preserved": 6,
+  "native_omml_objects": 60,
+  "editable_tables": 3,
+  "actual_word_read_only_open": true,
+  "pages": 7,
+  "visually_inspected_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "page_fields_and_header_unchanged": true,
+  "forbidden_pagination_flags_enabled": 0,
+  "population_extrapolation_removed": true,
+  "tax_sample_target_and_model_interpretation_consistent": true,
+  "other_source_files_modified": false,
+  "subagents_used": false
+}

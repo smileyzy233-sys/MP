@@ -1,0 +1,14 @@
+{
+  "source_sha256": "da0856f4c8d7f8e2130784c0f4d3123cf10374d75bcb546767a258e533217247",
+  "candidate_sha256": "39f6b40002448751512418e9ee807ea5e2cc2ee58e5f0f46c23022ffb5d65dae",
+  "changed_paragraphs": 82,
+  "ordinary_breaks_before": [
+    62
+  ],
+  "removed_header_parts": [
+    "word/header1.xml"
+  ],
+  "native_math_objects_unchanged": 69,
+  "footer_bytes_unchanged": true,
+  "pagination_controls_disabled": true
+}

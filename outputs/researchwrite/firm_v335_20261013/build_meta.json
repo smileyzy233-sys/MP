@@ -1,0 +1,22 @@
+{
+  "source": "A:\\桌面\\study\\企业微观层面_v3.3.docx",
+  "source_sha256": "6caf8e57849bc454f5a695c412ab962680e5460cf1fa310cb0df61d3eefc017c",
+  "outputs": [
+    {
+      "path": "A:\\桌面\\study\\企业微观层面_v3.35.docx",
+      "sha256": "da0856f4c8d7f8e2130784c0f4d3123cf10374d75bcb546767a258e533217247",
+      "paragraphs": 166,
+      "tables": 3
+    },
+    {
+      "path": "A:\\桌面\\study\\企业微观层面_v3.35_修订说明.docx",
+      "sha256": "ee84a9fbbe2cb9bcbe1f5eefbd91a1980b272ac832aaf8b2dd1aaf879808c956",
+      "paragraphs": 16,
+      "tables": 0
+    }
+  ],
+  "math_objects": 69,
+  "draft_sha256": "975637a0395fb5e16a1b3dc1f0ea6aabd5d003836b1b90bd1ee67061e8aa9703",
+  "generated_at": "2026-10-13T16:47:48.213220",
+  "math_engine": "latex2mathml + Microsoft MML2OMML; native OMML"
+}

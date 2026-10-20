@@ -1,0 +1,50 @@
+{
+  "files": {
+    "企业微观层面_v3.37.docx": {
+      "bytes": 50760,
+      "sha256": "f7792b617b2237c50d42f25ac76a2fe0e25aa641ddc2e9e4532e45384554d271"
+    },
+    "企业微观层面_v4.docx": {
+      "bytes": 54145,
+      "sha256": "584255d0f8a0bb04f4d7342e8b8a1c47ed95385c46fc1c4edf5add2c80dd6176"
+    },
+    "思路.docx": {
+      "bytes": 178492,
+      "sha256": "e5f571cf6f82b659b192f69be93b851a6a3ef64f1c133900995aa38056da47fe"
+    },
+    "限制程度量化思路借鉴.pdf": {
+      "bytes": 4384093,
+      "sha256": "488a6d0bd1efa3e059a9d9bed214e0a6383e2f36044fdbf3d7a0a78ab32f384e"
+    }
+  },
+  "output_only": "企业微观层面_v4.docx",
+  "pages_visually_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "word_actual_readonly_open": true,
+  "pages": 14,
+  "native_math_objects": 131,
+  "numbered_equations": 18,
+  "editable_tables_including_flowchart": 3,
+  "footnotes": 0,
+  "headers_blank": true,
+  "page_numbers_preserved": true,
+  "all_pagination_flags_disabled_in_body_and_styles": true,
+  "scoring_formula_examples_and_cross_references_verified": true,
+  "visual_review": "All 14 final-page images inspected: no clipping, missing glyphs, broken table/flowchart, stranded headings or incorrect numbering observed.",
+  "renderer": "Native Microsoft Word read-only open, PDF export, PyMuPDF page images; bundled renderer unavailable (missing pdf2image).",
+  "analysis_scope": "No policy matching, enterprise data preparation, regression or structural solution executed."
+}

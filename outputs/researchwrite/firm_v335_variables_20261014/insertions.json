@@ -1,0 +1,14 @@
+[
+  {
+    "id": "flow_note",
+    "before": 11,
+    "style_from": 48,
+    "text": "注：LLM为大语言模型。GB2002、GB2011和GB2017分别指GB行业分类的2002、2011和2017年版。ISIC Rev.4为联合国《所有经济活动的国际标准产业分类》第四版（International Standard Industrial Classification of All Economic Activities, Revision 4）。AMNE为经济合作与发展组织的分析性跨国企业活动数据库（OECD Analytical AMNE）；AMNE部门是所选发布版采用的行业汇总部门，本文以2024版说明分类对应，估计版随模型校准确定。模型部门是结构模型采用的部门划分。"
+  },
+  {
+    "id": "coal_policy_example",
+    "after": 66,
+    "style_from": 64,
+    "text": "例如，2007目录限制类“六、批发和零售业”第2项列举粮食、棉花等商品的批发、零售和配送，并对超过30家分店、销售多个供应商不同种类和品牌商品的连锁店规定中方控股。[1] “煤炭及制品批发”与该项列举的商品活动不相符，记录为该条款未命中，同时保存条款原文、编号及其控股条件。其他条款沿同一方法检索和复核，命中条款的具体要求用于汇总该版限制状态。"
+  }
+]

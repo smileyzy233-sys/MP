@@ -1,0 +1,29 @@
+{
+  "source": "A:\\桌面\\study\\企业微观层面_新方案.docx",
+  "source_sha256": "763f2f27c14d1bdb52d60c536bdc9693bcf8a0fe13a80025e9fe9aae58a9dae3",
+  "output": "A:\\桌面\\study\\企业微观层面_新方案_语言修订版.docx",
+  "output_sha256": "e03fbccb1aeb97f77c1a51daa74a0f782bb0ba9399fd763e66a3389f6d583214",
+  "changed_records": 95,
+  "changed_body_paragraphs": 55,
+  "changed_table_cells": 39,
+  "changed_reference_notes": 1,
+  "native_math_unchanged": 87,
+  "other_package_members_unchanged": 17,
+  "headings_and_captions_unchanged": true,
+  "body_blocks_unchanged": true,
+  "number_tokens_unchanged": true,
+  "pages": 14,
+  "source_unchanged": true,
+  "formula_bytes_unchanged": true,
+  "paragraph_and_table_formatting_unchanged": true,
+  "document_opens": true,
+  "pdf_text_and_bounds_pass": true,
+  "visual_review_pending": false,
+  "visual_review_passed": true,
+  "visual_reviewers": {
+    "luna_revision_visual": "pages 1-7",
+    "root": "pages 8-14"
+  },
+  "language_review_passed": true,
+  "content_scope": "Language and sentence structure only; current title, section order, research design, numbers and native mathematics preserved."
+}

@@ -1,0 +1,28 @@
+{
+  "docx_path": "A:\\桌面\\study\\企业微观层面_新方案.docx",
+  "bytes": 56231,
+  "pages": 13,
+  "native_math": 87,
+  "display_equations": 14,
+  "tables": 5,
+  "images": 0,
+  "source_hashes_unchanged": true,
+  "sources": {
+    "A:\\桌面\\study\\企业微观层面.docx": "ec745fda88cac7840efc8fb5364e067c465da9125c577ee1ade9bcdec1949971",
+    "A:\\桌面\\制度性开放\\审稿意见\\手动改和写\\审稿人回复.docx": "e82150a52e56d1cd276e669d5c300b2c55861b1d50202ddd35d0183529ffb608",
+    "A:\\桌面\\制度性开放\\报告_重点标红版.pdf": "f6894e72569de840be2eadb4ea56a771207b0bde2b43758753c5b2501275d9d8"
+  },
+  "docx_sha256": "bb72ba83fe246053ba7331decedcd3dc9435bf3761d90b9734772ba8fb389178",
+  "markdown_matches_draft": true,
+  "pdf_text_and_bounds_pass": true,
+  "visual_review_pending": false,
+  "visual_review_passed": true,
+  "content_review_passed": true,
+  "reviewers": {
+    "draft_empirical": "A3-A5 authoring",
+    "draft_structural": "A6-A7 authoring",
+    "review_new_plan": "full content audit and P1 closure",
+    "luna_visual": "latest pages 1-6 visual QA",
+    "root": "latest pages 7-13 visual QA and full integration"
+  }
+}

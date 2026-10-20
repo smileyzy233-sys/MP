@@ -1,0 +1,216 @@
+{
+  "output": "A:\\桌面\\study\\企业微观层面_v3.2.docx",
+  "sha256": "67ffff9b10d877ddd580200ff8f01e2e4818762b5ef73654c460fa0b708a626e",
+  "render": "A:\\桌面\\study\\outputs\\researchwrite\\firm_v32_20261010\\render\\round2",
+  "pdf_sha256": "1b6c03a91380f820893e43ef51411d62c1fb15819c004c2076972066231fff5c",
+  "all_passed": true,
+  "checks": [
+    {
+      "check": "source_unchanged",
+      "passed": true,
+      "detail": "A:\\桌面\\制度性开放\\审稿意见\\手动改和写\\审稿人回复.docx"
+    },
+    {
+      "check": "source_unchanged",
+      "passed": true,
+      "detail": "A:\\桌面\\study\\企业微观层面_v3.1.docx"
+    },
+    {
+      "check": "output_matches_build",
+      "passed": true,
+      "detail": "67ffff9b10d877ddd580200ff8f01e2e4818762b5ef73654c460fa0b708a626e"
+    },
+    {
+      "check": "draft_matches_build",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "zip_integrity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "no_raster_or_legacy_objects",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "native_math_count",
+      "passed": true,
+      "detail": 94
+    },
+    {
+      "check": "math_text_matches_builder",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "native_math_structure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "no_placeholders_or_crossversion_ids",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "old_baseline_removed",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "single_reform_and_conditional_scope",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "display_equations_A1_to_A17",
+      "passed": true,
+      "detail": [
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A6",
+        "A7",
+        "A8",
+        "A9",
+        "A10",
+        "A11",
+        "A12",
+        "A13",
+        "A14",
+        "A15",
+        "A16",
+        "A17"
+      ]
+    },
+    {
+      "check": "equation_references_resolve",
+      "passed": true,
+      "detail": [
+        "A10",
+        "A15",
+        "A16",
+        "A4",
+        "A5",
+        "A6"
+      ]
+    },
+    {
+      "check": "caption_counts",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "footnote_references",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "document_hyperlinks",
+      "passed": true,
+      "detail": 15
+    },
+    {
+      "check": "footnotes_hyperlinks",
+      "passed": true,
+      "detail": 10
+    },
+    {
+      "check": "no_tracked_edits_or_comments",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "heading_sequence",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "seven_main_sections",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "sixteen_subsections",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "section_references_resolve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "four_editable_tables",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "editable_flowchart_updated",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source_page_geometry_retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "opened_by_Microsoft_Word",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "sixteen_rendered_pages",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "all_pages_searchable",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "no_replacement_glyphs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "all_numbered_equations_rendered",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "footnote_1_not_isolated",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "rendered_text_within_page",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "final_render_after_build",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "changed_pages_rereviewed",
+      "passed": true,
+      "detail": {
+        "changed_and_reviewed": [
+          1,
+          2,
+          7
+        ],
+        "other_pages_pixel_identical_to_reviewed_round1": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+[
+  {
+    "tex": "\\mathrm{Restrict}_{ft}",
+    "text": "Restrictft"
+  },
+  {
+    "tex": "\\mathrm{Restrict}_{ft}=1",
+    "text": "Restrictft=1"
+  },
+  {
+    "tex": "\\mathrm{Restrict}_{ft}",
+    "text": "Restrictft"
+  },
+  {
+    "tex": "\\mathrm{Restrict}_{ft}",
+    "text": "Restrictft"
+  },
+  {
+    "tex": "\\mathrm{Restrict}_{ft}",
+    "text": "Restrictft"
+  },
+  {
+    "tex": "\\mathrm{Restrict}_{ft}",
+    "text": "Restrictft"
+  },
+  {
+    "tex": "Z_{ft}",
+    "text": "Zft"
+  },
+  {
+    "tex": "X_{ft}",
+    "text": "Xft"
+  },
+  {
+    "tex": "\\alpha_f",
+    "text": "αf"
+  },
+  {
+    "tex": "\\lambda_t",
+    "text": "λt"
+  },
+  {
+    "tex": "\\gamma",
+    "text": "γ"
+  },
+  {
+    "tex": "\\exp(\\beta)-1",
+    "text": "exp(β)−1"
+  },
+  {
+    "tex": "\\exp(-\\beta)-1",
+    "text": "exp(−β)−1"
+  },
+  {
+    "tex": "b(f)",
+    "text": "b(f)"
+  },
+  {
+    "tex": "r(f)",
+    "text": "r(f)"
+  },
+  {
+    "tex": "\\theta_{b(f),t}",
+    "text": "θb(f),t"
+  },
+  {
+    "tex": "\\eta_{r(f),t}",
+    "text": "ηr(f),t"
+  },
+  {
+    "tex": "\\mathrm{Restrict}",
+    "text": "Restrict"
+  },
+  {
+    "tex": "L_{ft}",
+    "text": "Lft"
+  },
+  {
+    "tex": "\\beta\\mathrm{Restrict}_{ft}",
+    "text": "βRestrictft"
+  },
+  {
+    "tex": "K",
+    "text": "K"
+  },
+  {
+    "tex": "\\ell=0",
+    "text": "ℓ=0"
+  },
+  {
+    "tex": "D_{ft}^{F}",
+    "text": "DftF"
+  },
+  {
+    "tex": "a=0",
+    "text": "a=0"
+  },
+  {
+    "tex": "a=1",
+    "text": "a=1"
+  },
+  {
+    "tex": "t^{*}",
+    "text": "t*"
+  },
+  {
+    "tex": "a=0",
+    "text": "a=0"
+  },
+  {
+    "tex": "a=1",
+    "text": "a=1"
+  },
+  {
+    "tex": "a=0",
+    "text": "a=0"
+  },
+  {
+    "tex": "a=1",
+    "text": "a=1"
+  },
+  {
+    "tex": "100\\mu_j",
+    "text": "100μj"
+  },
+  {
+    "tex": "j",
+    "text": "j"
+  },
+  {
+    "tex": "\\delta_j",
+    "text": "δj"
+  },
+  {
+    "tex": "\\delta_j<0",
+    "text": "δj<0"
+  },
+  {
+    "tex": "g",
+    "text": "g"
+  },
+  {
+    "tex": "\\mathcal{O}",
+    "text": "𝒪"
+  },
+  {
+    "tex": "G_{\\chi}(s;Z)",
+    "text": "Gχ(s;Z)"
+  },
+  {
+    "tex": "Z",
+    "text": "Z"
+  },
+  {
+    "tex": "s",
+    "text": "s"
+  },
+  {
+    "tex": "\\chi",
+    "text": "χ"
+  },
+  {
+    "tex": "Z^{0}(\\delta)\\equiv Z^{0}",
+    "text": "Z0(δ)≡Z0"
+  },
+  {
+    "tex": "Z^{1}(\\delta)=G_{\\chi}(\\delta;Z^{0})",
+    "text": "Z1(δ)=Gχ(δ;Z0)"
+  },
+  {
+    "tex": "Z^{1}(\\delta)\\equiv Z^{1}",
+    "text": "Z1(δ)≡Z1"
+  },
+  {
+    "tex": "Z^{0}(\\delta)=G_{\\chi}(-\\delta;Z^{1})",
+    "text": "Z0(δ)=Gχ(−δ;Z1)"
+  },
+  {
+    "tex": "J_R",
+    "text": "JR"
+  },
+  {
+    "tex": "\\mathrm{E}[Q_{ft}\\mid Z_{ft}]=\\exp\\!\\left(\\alpha_f+\\lambda_t+\\beta\\mathrm{Restrict}_{ft}+X_{ft}^{\\prime}\\gamma\\right).",
+    "text": "E[Qft∣Zft]=expαfλtβRestrictftXft′γ."
+  },
+  {
+    "tex": "\\mathrm{E}[Q_{ft}\\mid Z_{ft}]=\\exp\\!\\left(\\alpha_f+\\theta_{b(f),t}+\\eta_{r(f),t}+\\beta\\mathrm{Restrict}_{ft}+X_{ft}^{\\prime}\\gamma\\right).",
+    "text": "E[Qft∣Zft]=expαfθb(f),tηr(f),tβRestrictftXft′γ."
+  },
+  {
+    "tex": "L_{ft}=\\sum_{\\ell=0}^{K}\\beta_{\\ell}\\mathrm{Restrict}_{f,t-\\ell}.",
+    "text": "Lft=ℓ=0KβℓRestrictf,t−ℓ."
+  },
+  {
+    "tex": "\\mu_j=\\frac{F_{j,t^{*}}^{1}}{F_{j,t^{*}}^{1}+D_{j,t^{*}}^{1}}-\\frac{F_{j,t^{*}}^{0}}{F_{j,t^{*}}^{0}+D_{j,t^{*}}^{0}}.",
+    "text": "μj=Fj,t*1Fj,t*1+Dj,t*1−Fj,t*0Fj,t*0+Dj,t*0."
+  },
+  {
+    "tex": "r(\\delta)=\\mathcal{O}[Z^{1}(\\delta),Z^{0}(\\delta)]-g.",
+    "text": "r(δ)=𝒪[Z1(δ),Z0(δ)]−g."
+  },
+  {
+    "tex": "\\mathrm{Restrict}_{ft}",
+    "text": "Restrictft"
+  }
+]

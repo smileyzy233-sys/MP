@@ -1,0 +1,205 @@
+{
+  "target": "A:\\桌面\\study\\outputs\\researchwrite\\firm_v335_variables_20261014\\v335_candidate.docx",
+  "sha256": "8439ae256dbfca5a23ec44c1486fdf68e150d6bb8d0a7c5233fd175ce48feba9",
+  "all_passed": true,
+  "checks": [
+    {
+      "check": "ZIP intact",
+      "passed": true
+    },
+    {
+      "check": "Untargeted original paragraphs unchanged",
+      "passed": true
+    },
+    {
+      "check": "69 native mathematical objects unchanged",
+      "passed": true
+    },
+    {
+      "check": "All original hyperlink objects unchanged",
+      "passed": true
+    },
+    {
+      "check": "Footer bytes unchanged",
+      "passed": true
+    },
+    {
+      "check": "Header empty",
+      "passed": true
+    },
+    {
+      "check": "Styles unchanged",
+      "passed": true
+    },
+    {
+      "check": "3 editable tables retained",
+      "passed": true
+    },
+    {
+      "check": "Table A2 four-column content exact",
+      "passed": true
+    },
+    {
+      "check": "word/document.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/document.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/document.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/styles.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/styles.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/styles.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/stylesWithEffects.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/stylesWithEffects.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/stylesWithEffects.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/settings.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/settings.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/settings.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/webSettings.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/webSettings.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/webSettings.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/fontTable.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/fontTable.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/fontTable.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/theme/theme1.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/theme/theme1.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/theme/theme1.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/numbering.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/numbering.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/numbering.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/footer1.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/footer1.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/footer1.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "Required content: GB小类名称",
+      "passed": true
+    },
+    {
+      "check": "Required content: 确认未命中",
+      "passed": true
+    },
+    {
+      "check": "Required content: 限制状态",
+      "passed": true
+    },
+    {
+      "check": "Required content: 未受限",
+      "passed": true
+    },
+    {
+      "check": "Required content: 其中2011草案反映拟议要求",
+      "passed": true
+    },
+    {
+      "check": "Required content: 鼓励资格另行记录",
+      "passed": true
+    },
+    {
+      "check": "Required content: H6361",
+      "passed": true
+    },
+    {
+      "check": "Required content: 煤炭及制品批发",
+      "passed": true
+    },
+    {
+      "check": "Required content: AMNE部门",
+      "passed": true
+    },
+    {
+      "check": "Required content: 模型部门",
+      "passed": true
+    },
+    {
+      "check": "No leaked placeholders",
+      "passed": true
+    },
+    {
+      "check": "Sixteen numbered equations retained",
+      "passed": true
+    },
+    {
+      "check": "Idea internal snapshot unchanged",
+      "passed": true
+    }
+  ],
+  "changed_paragraphs": 92,
+  "paragraphs": 220
+}

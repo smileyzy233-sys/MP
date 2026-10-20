@@ -1,0 +1,39 @@
+{
+  "checks": {
+    "zip_integrity": true,
+    "six_formulas_continuous": true,
+    "core_formulas": true,
+    "references_current": true,
+    "no_enabled_pagination_flags": true,
+    "blank_headers": true,
+    "page_number_field": true,
+    "two_editable_tables": true,
+    "no_rasterized_flowchart": true,
+    "all_seven_sections": true,
+    "no_third_level_headings": true,
+    "approved_routine_explanations_removed": true,
+    "no_legacy_design": true,
+    "no_tex_or_garbled_text": true,
+    "no_obsolete_table_refs": true,
+    "unknown_and_fixed_denominator": true,
+    "conditional_prediction_and_causal_boundary": true,
+    "prediction_scope_and_other_assumption": true,
+    "scenario_direction": true,
+    "no_forced_new_pe_sequence": true,
+    "source_unchanged": true,
+    "ten_numbered_references": true,
+    "cap_thresholds": true,
+    "scoring_examples": true
+  },
+  "output_sha256": "1519628dcacdd4c461732b1089bce27486d4e092dbe470c0ad533bef3f457c92",
+  "formula_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "native_omml": 55,
+  "flags": []
+}

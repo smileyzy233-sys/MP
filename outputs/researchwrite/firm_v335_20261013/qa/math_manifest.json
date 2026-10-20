@@ -1,0 +1,278 @@
+[
+  {
+    "tex": "Q_{ft}",
+    "text": "Qft"
+  },
+  {
+    "tex": "f",
+    "text": "f"
+  },
+  {
+    "tex": "t",
+    "text": "t"
+  },
+  {
+    "tex": "R_{ft}",
+    "text": "Rft"
+  },
+  {
+    "tex": "\\mathrm{Treat}_f",
+    "text": "Treatf"
+  },
+  {
+    "tex": "\\mathrm{Treat}_f=1",
+    "text": "Treatf=1"
+  },
+  {
+    "tex": "\\mathrm{Treat}_f=0",
+    "text": "Treatf=0"
+  },
+  {
+    "tex": "\\mathrm{Post}_t",
+    "text": "Postt"
+  },
+  {
+    "tex": "b(f)",
+    "text": "b(f)"
+  },
+  {
+    "tex": "r_{f0}",
+    "text": "rf0"
+  },
+  {
+    "tex": "\\mathcal Z_{ft}",
+    "text": "Zft"
+  },
+  {
+    "tex": "\\mathbb E[Q_{ft}\\mid\\mathcal Z_{ft}]=\\exp\\left[\\alpha_f+\\lambda_{b(f),t}+\\eta_{r_{f0},t}+L_{ft}\\right].",
+    "text": "E[Qft∣Zft]=expαfλb(f),tηrf0,tLft."
+  },
+  {
+    "tex": "\\alpha_f",
+    "text": "αf"
+  },
+  {
+    "tex": "\\lambda_{b(f),t}",
+    "text": "λb(f),t"
+  },
+  {
+    "tex": "\\eta_{r_{f0},t}",
+    "text": "ηrf0,t"
+  },
+  {
+    "tex": "L_{ft}=\\beta\\,\\mathrm{Treat}_f\\times \\mathrm{Post}_t.",
+    "text": "Lft=βTreatf×Postt."
+  },
+  {
+    "tex": "\\exp(\\beta)-1",
+    "text": "exp(β)−1"
+  },
+  {
+    "tex": "h=t-2011",
+    "text": "h=t−2011"
+  },
+  {
+    "tex": "h=-1",
+    "text": "h=−1"
+  },
+  {
+    "tex": "L_{ft}=\\sum_{h\\in\\mathcal H,\\,h\\ne-1}\\beta_h\\,\\mathrm{Treat}_f\\,\\mathbf 1(t-2011=h).",
+    "text": "Lft=h∈H,h≠−1βhTreatf1(t−2011=h)."
+  },
+  {
+    "tex": "\\mathcal H=\\{-4,-3,-2,-1,0,1,2,3\\}",
+    "text": "H={−4,−3,−2,−1,0,1,2,3}"
+  },
+  {
+    "tex": "\\mathbf 1(\\cdot)",
+    "text": "1(·)"
+  },
+  {
+    "tex": "D^F_{ft}",
+    "text": "DftF"
+  },
+  {
+    "tex": "Y^F_{ft}=D^F_{ft}Q_{ft},\\text{  } Y^D_{ft}=(1-D^F_{ft})Q_{ft}.",
+    "text": "YftF=DftFQft,  YftD=(1−DftF)Qft."
+  },
+  {
+    "tex": "\\mathcal B_{jt}",
+    "text": "Bjt"
+  },
+  {
+    "tex": "j",
+    "text": "j"
+  },
+  {
+    "tex": "\\omega_{ft}",
+    "text": "ωft"
+  },
+  {
+    "tex": "F_{jt}=\\sum_{f\\in\\mathcal B_{jt}}\\omega_{ft}Y^F_{ft},\\text{  } D_{jt}=\\sum_{f\\in\\mathcal B_{jt}}\\omega_{ft}Y^D_{ft}.",
+    "text": "Fjt=f∈BjtωftYftF,  Djt=f∈BjtωftYftD."
+  },
+  {
+    "tex": "\\omega_{ft}=1",
+    "text": "ωft=1"
+  },
+  {
+    "tex": "M_{jt}=\\frac{F_{jt}}{F_{jt}+D_{jt}}.",
+    "text": "Mjt=FjtFjt+Djt."
+  },
+  {
+    "tex": "c",
+    "text": "c"
+  },
+  {
+    "tex": "Q_{ct}",
+    "text": "Qct"
+  },
+  {
+    "tex": "M_{jt}=\\sum_{c\\in j}s_{ct}M_{ct},\\text{  } s_{ct}=\\frac{Q_{ct}}{\\sum_{k\\in j}Q_{kt}}.",
+    "text": "Mjt=c∈jsctMct,  sct=Qctk∈jQkt."
+  },
+  {
+    "tex": "a=1",
+    "text": "a=1"
+  },
+  {
+    "tex": "a=0",
+    "text": "a=0"
+  },
+  {
+    "tex": "F^a_{jt}=F^a_{jt,\\mathrm{covered}}+F^a_{jt,\\mathrm{other}},\\text{  } D^a_{jt}=D^a_{jt,\\mathrm{covered}}+D^a_{jt,\\mathrm{other}}.",
+    "text": "Fjta=Fjt,covereda+Fjt,othera,  Djta=Djt,covereda+Djt,othera."
+  },
+  {
+    "tex": "\\mu_j=\\frac{F^1_{j,2014}}{F^1_{j,2014}+D^1_{j,2014}}-\\frac{F^0_{j,2014}}{F^0_{j,2014}+D^0_{j,2014}}.",
+    "text": "μj=Fj,20141Fj,20141+Dj,20141−Fj,20140Fj,20140+Dj,20140."
+  },
+  {
+    "tex": "100\\mu_j",
+    "text": "100μj"
+  },
+  {
+    "tex": "i",
+    "text": "i"
+  },
+  {
+    "tex": "m",
+    "text": "m"
+  },
+  {
+    "tex": "n",
+    "text": "n"
+  },
+  {
+    "tex": "j",
+    "text": "j"
+  },
+  {
+    "tex": "C",
+    "text": "C"
+  },
+  {
+    "tex": "\\xi_{im}^{j}",
+    "text": "ξimj"
+  },
+  {
+    "tex": "d_{im}^{\\mathrm{MP},j}=\\frac{1}{\\xi_{im}^{j}}.",
+    "text": "dimMP,j=1ξimj."
+  },
+  {
+    "tex": "X^j_{nCm}",
+    "text": "XnCmj"
+  },
+  {
+    "tex": "m",
+    "text": "m"
+  },
+  {
+    "tex": "n",
+    "text": "n"
+  },
+  {
+    "tex": "\\tau^j_{nC}",
+    "text": "τnCj"
+  },
+  {
+    "tex": "Q^j_{Cm}=\\sum_n\\frac{X^j_{nCm}}{\\tau^j_{nC}},\\text{  } M^j_C=\\frac{\\sum_{m\\ne C}Q^j_{Cm}}{\\sum_mQ^j_{Cm}}.",
+    "text": "QCmj=nXnCmjτnCj,  MCj=m≠CQCmjmQCmj."
+  },
+  {
+    "tex": "j",
+    "text": "j"
+  },
+  {
+    "tex": "\\delta_j=\\ln\\left(\\frac{d^{\\mathrm{MP},j}_{Cm,1}}{d^{\\mathrm{MP},j}_{Cm,0}}\\right),\\text{  } m\\ne C.",
+    "text": "δj=lndCm,1MP,jdCm,0MP,j,  m≠C."
+  },
+  {
+    "tex": "\\delta_j",
+    "text": "δj"
+  },
+  {
+    "tex": "\\delta_j<0",
+    "text": "δj<0"
+  },
+  {
+    "tex": "\\widehat d^{\\mathrm{MP},j}_{Cm}=\\exp(\\delta_j),\\text{  } \\widehat\\xi^j_{Cm}=\\exp(-\\delta_j).",
+    "text": "dCmMP,j=exp(δj),  ξCmj=exp(−δj)."
+  },
+  {
+    "tex": "\\widehat{\\boldsymbol g}",
+    "text": "g"
+  },
+  {
+    "tex": "\\mathcal O",
+    "text": "O"
+  },
+  {
+    "tex": "G_{\\chi}(\\boldsymbol s;Z)",
+    "text": "Gχ(s;Z)"
+  },
+  {
+    "tex": "Z",
+    "text": "Z"
+  },
+  {
+    "tex": "\\boldsymbol s",
+    "text": "s"
+  },
+  {
+    "tex": "\\chi",
+    "text": "χ"
+  },
+  {
+    "tex": "Z^1",
+    "text": "Z1"
+  },
+  {
+    "tex": "Z^0(\\boldsymbol\\delta)=G_{\\chi}(-\\boldsymbol\\delta;Z^1)",
+    "text": "Z0(δ)=Gχ(−δ;Z1)"
+  },
+  {
+    "tex": "\\boldsymbol r(\\boldsymbol\\delta)=\\mathcal O[Z^1,Z^0(\\boldsymbol\\delta)]-\\widehat{\\boldsymbol g}.",
+    "text": "r(δ)=O[Z1,Z0(δ)]−g."
+  },
+  {
+    "tex": "\\widehat{\\boldsymbol\\delta}=\\operatorname{argmin}_{\\boldsymbol\\delta\\in\\mathcal D}\\boldsymbol r(\\boldsymbol\\delta)'\\Omega\\boldsymbol r(\\boldsymbol\\delta).",
+    "text": "δ=argminδ∈Dr(δ)′Ωr(δ)."
+  },
+  {
+    "tex": "\\Omega",
+    "text": "Ω"
+  },
+  {
+    "tex": "\\mathcal D",
+    "text": "D"
+  },
+  {
+    "tex": "\\mathcal J_R",
+    "text": "JR"
+  },
+  {
+    "tex": "\\widehat\\xi^j_{im}=\\begin{cases}\\exp(-\\widehat\\delta_j),&i=C,\\ m\\ne C,\\ j\\in\\mathcal J_R,\\\\1,&\\text{其他关系}.\\end{cases}",
+    "text": "ξimj=exp(−δj),i=C, m≠C, j∈JR,1,其他关系."
+  }
+]

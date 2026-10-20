@@ -1,0 +1,22 @@
+{
+  "status": "accepted",
+  "output_sha256": "2819289f94e1cb07c84985832e95b0787dda4eb81762285288fd3ff669719744",
+  "source_sha256": "580f238eb7513b83edac094d2c3438617815d84d5815abf2fc4958993dd751e6",
+  "word_actual_open": true,
+  "render_pages": 19,
+  "native_math_objects": 84,
+  "numbered_equations": 16,
+  "editable_flowchart_and_tables": true,
+  "blank_header_and_page_numbers": true,
+  "all_prohibited_pagination_controls_disabled": true,
+  "visual_review": {
+    "data_audit": "pages 1–6 accepted",
+    "policy_audit": "pages 7–10 accepted",
+    "mapping_model_audit": "pages 11–19 accepted",
+    "root": "selected complex tables and all principal equations plus structural checks accepted"
+  },
+  "authorized_scope": "proposal revision and read-only source checks only; no bulk policy matching, data preparation, regression or structural solve",
+  "final_deliverables": [
+    "A:\\桌面\\study\\企业微观层面_v3.36.docx"
+  ]
+}

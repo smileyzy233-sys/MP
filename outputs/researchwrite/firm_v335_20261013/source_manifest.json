@@ -1,0 +1,87 @@
+{
+  "source": "A:\\桌面\\study\\企业微观层面_v3.3.docx",
+  "sha256": "6caf8e57849bc454f5a695c412ab962680e5460cf1fa310cb0df61d3eefc017c",
+  "target": "A:\\桌面\\study\\企业微观层面_v3.35.docx",
+  "original_preserved": true,
+  "key_local_evidence": [
+    {
+      "path": "A:\\桌面\\study\\中国国民经济行业标准\\GBT 4754—2017\\国民经济行业分类.pdf",
+      "sha256": "edc8f135ef8242cc634e05a0d29331c00342cf58211776e57d4a838be9618c05"
+    },
+    {
+      "path": "A:\\桌面\\study\\中国国民经济行业标准\\GBT 4754—2017\\2017版第1号修改单.DOCX",
+      "sha256": "59e792fca597e715b2afbc3496eb719702706d68bca943e5c24df2f07220d92a"
+    },
+    {
+      "path": "A:\\桌面\\study\\中国国民经济行业标准\\1994-2002和2002-2011\\GBT 4754—2002和GBT 4754—2011对照表.xls",
+      "sha256": "844da4a926e72978c2a8c93211817f78a17b26bc50c0a5b322f07ddf7f2412b9"
+    },
+    {
+      "path": "A:\\桌面\\study\\OECD_AMNE\\2024版\\readme-aamne.xlsx",
+      "sha256": "c550896f5e9c392ec0dd396c45dad9cd0d43598565a912d6fb9de5dfd336cbd1"
+    },
+    {
+      "path": "A:\\桌面\\study\\参考文献\\中国高水平制度型开放与全球产业链网络重塑.pdf",
+      "sha256": "c13cf6186cd8b8a75d87ccfc2629bc92391179d11ba7eb7491628ddbd84c85e6"
+    },
+    {
+      "path": "A:\\桌面\\study\\docs\\模型完整推导附录.docx",
+      "sha256": "aa060d9b12806c62337a9c68acfac87e2c218edbe4370448d35438aee1dcee30"
+    }
+  ],
+  "tax_inspection": {
+    "scope": "2007–2014 DTA metadata; original instructions and forms; earlier first-5000-row nonrandom industry-code checks. No full-data coverage statistics.",
+    "source_details": "reviews/tax_feasibility.md",
+    "annual_data": [
+      {
+        "path": "A:\\桌面\\study\\税收调查数据\\2007sd.dta",
+        "size_bytes": 397937914
+      },
+      {
+        "path": "A:\\桌面\\study\\税收调查数据\\2008sd.dta",
+        "size_bytes": 1251772397
+      },
+      {
+        "path": "A:\\桌面\\study\\税收调查数据\\2009sd.dta",
+        "size_bytes": 1486525929
+      },
+      {
+        "path": "A:\\桌面\\study\\税收调查数据\\2010sd.dta",
+        "size_bytes": 2134036685
+      },
+      {
+        "path": "A:\\桌面\\study\\税收调查数据\\2011sd.dta",
+        "size_bytes": 2391759077
+      },
+      {
+        "path": "A:\\桌面\\study\\税收调查数据\\2012sd.dta",
+        "size_bytes": 1826507032
+      },
+      {
+        "path": "A:\\桌面\\study\\税收调查数据\\2013sd.dta",
+        "size_bytes": 2044690541
+      },
+      {
+        "path": "A:\\桌面\\study\\税收调查数据\\2014sd.dta",
+        "size_bytes": 1929351770
+      }
+    ],
+    "full_dta_hash_recomputed": false
+  },
+  "primary_web_evidence": "proposal_v335.md: 参考文献与资料说明; reviews/policy_mapping.md; reviews/method_feasibility.md",
+  "final_outputs": [
+    {
+      "path": "A:\\桌面\\study\\企业微观层面_v3.35.docx",
+      "sha256": "da0856f4c8d7f8e2130784c0f4d3123cf10374d75bcb546767a258e533217247",
+      "paragraphs": 166,
+      "tables": 3
+    },
+    {
+      "path": "A:\\桌面\\study\\企业微观层面_v3.35_修订说明.docx",
+      "sha256": "ee84a9fbbe2cb9bcbe1f5eefbd91a1980b272ac832aaf8b2dd1aaf879808c956",
+      "paragraphs": 16,
+      "tables": 0
+    }
+  ],
+  "verification": "qa/verification.json"
+}

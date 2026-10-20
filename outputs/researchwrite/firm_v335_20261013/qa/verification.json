@@ -1,0 +1,417 @@
+{
+  "all_passed": true,
+  "check_count": 55,
+  "checks": [
+    {
+      "check": "original_v33_sha256",
+      "passed": true,
+      "actual": "6caf8e57849bc454f5a695c412ab962680e5460cf1fa310cb0df61d3eefc017c",
+      "expected": "6caf8e57849bc454f5a695c412ab962680e5460cf1fa310cb0df61d3eefc017c"
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: unchanged since build",
+      "passed": true,
+      "actual": "da0856f4c8d7f8e2130784c0f4d3123cf10374d75bcb546767a258e533217247",
+      "expected": "da0856f4c8d7f8e2130784c0f4d3123cf10374d75bcb546767a258e533217247"
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: nonempty",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: ZIP integrity",
+      "passed": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: pagination controls disabled in all parts/styles",
+      "passed": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: no tracked insertions/deletions",
+      "passed": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: no rasterized content",
+      "passed": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: no raw TeX markers",
+      "passed": true,
+      "actual": false,
+      "expected": false
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: no Unicode replacement glyph",
+      "passed": true,
+      "actual": false,
+      "expected": false
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: native OMML objects",
+      "passed": true,
+      "actual": 69,
+      "expected": 69
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: 16 display equation numbers",
+      "passed": true,
+      "actual": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "expected": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: editable flowchart plus 2 tables",
+      "passed": true,
+      "actual": 3,
+      "expected": 3
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: 7 main sections plus references",
+      "passed": true,
+      "actual": 8,
+      "expected": 8
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: 14 references",
+      "passed": true,
+      "actual": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "expected": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ]
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: Microsoft Word opens and paginates",
+      "passed": true,
+      "actual": 18,
+      "expected": 18
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: Word recognizes native equations",
+      "passed": true,
+      "actual": 69,
+      "expected": 69
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: PDF page count",
+      "passed": true,
+      "actual": 18,
+      "expected": 18
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: no empty rendered pages",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "check": "企业微观层面_v3.35.docx: text stays on paper",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "check": "企业微观层面_v3.35_修订说明.docx: unchanged since build",
+      "passed": true,
+      "actual": "ee84a9fbbe2cb9bcbe1f5eefbd91a1980b272ac832aaf8b2dd1aaf879808c956",
+      "expected": "ee84a9fbbe2cb9bcbe1f5eefbd91a1980b272ac832aaf8b2dd1aaf879808c956"
+    },
+    {
+      "check": "企业微观层面_v3.35_修订说明.docx: nonempty",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "check": "企业微观层面_v3.35_修订说明.docx: ZIP integrity",
+      "passed": true,
+      "actual": null,
+      "expected": null
+    },
+    {
+      "check": "企业微观层面_v3.35_修订说明.docx: pagination controls disabled in all parts/styles",
+      "passed": true,
+      "actual": [],
+      "expected": []
+    },
+    {
+      "check": "企业微观层面_v3.35_修订说明.docx: no tracked insertions/deletions",
+      "passed": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "企业微观层面_v3.35_修订说明.docx: no rasterized content",
+      "passed": true,
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "企业微观层面_v3.35_修订说明.docx: no raw TeX markers",
+      "passed": true,
+      "actual": false,
+      "expected": false
+    },
+    {
+      "check": "企业微观层面_v3.35_修订说明.docx: no Unicode replacement glyph",
+      "passed": true,
+      "actual": false,
+      "expected": false
+    },
+    {
+      "check": "企业微观层面_v3.35_修订说明.docx: Microsoft Word opens and paginates",
+      "passed": true,
+      "actual": 2,
+      "expected": 2
+    },
+    {
+      "check": "企业微观层面_v3.35_修订说明.docx: PDF page count",
+      "passed": true,
+      "actual": 2,
+      "expected": 2
+    },
+    {
+      "check": "企业微观层面_v3.35_修订说明.docx: no empty rendered pages",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "check": "企业微观层面_v3.35_修订说明.docx: text stays on paper",
+      "passed": true,
+      "actual": true,
+      "expected": true
+    },
+    {
+      "check": "protected source unchanged: 中国国民经济行业标准/GBT 4754—2017/国民经济行业分类.pdf",
+      "passed": true,
+      "actual": "edc8f135ef8242cc634e05a0d29331c00342cf58211776e57d4a838be9618c05",
+      "expected": "edc8f135ef8242cc634e05a0d29331c00342cf58211776e57d4a838be9618c05"
+    },
+    {
+      "check": "protected source unchanged: 中国国民经济行业标准/GBT 4754—2017/2017版第1号修改单.DOCX",
+      "passed": true,
+      "actual": "59e792fca597e715b2afbc3496eb719702706d68bca943e5c24df2f07220d92a",
+      "expected": "59e792fca597e715b2afbc3496eb719702706d68bca943e5c24df2f07220d92a"
+    },
+    {
+      "check": "protected source unchanged: 中国国民经济行业标准/1994-2002和2002-2011/GBT 4754—2002和GBT 4754—2011对照表.xls",
+      "passed": true,
+      "actual": "844da4a926e72978c2a8c93211817f78a17b26bc50c0a5b322f07ddf7f2412b9",
+      "expected": "844da4a926e72978c2a8c93211817f78a17b26bc50c0a5b322f07ddf7f2412b9"
+    },
+    {
+      "check": "protected source unchanged: OECD_AMNE/2024版/readme-aamne.xlsx",
+      "passed": true,
+      "actual": "c550896f5e9c392ec0dd396c45dad9cd0d43598565a912d6fb9de5dfd336cbd1",
+      "expected": "c550896f5e9c392ec0dd396c45dad9cd0d43598565a912d6fb9de5dfd336cbd1"
+    },
+    {
+      "check": "final page 1: identical to visually reviewed render",
+      "passed": true,
+      "actual": "2250fbbc905ca779214bcdb9bd377ac806fa5a17d9f3e73a81996bb38450d42a",
+      "expected": "2250fbbc905ca779214bcdb9bd377ac806fa5a17d9f3e73a81996bb38450d42a"
+    },
+    {
+      "check": "final page 2: identical to visually reviewed render",
+      "passed": true,
+      "actual": "963f1998d621393ce913157d6970a632713093159e5ba6101ec63ec6c51b6acc",
+      "expected": "963f1998d621393ce913157d6970a632713093159e5ba6101ec63ec6c51b6acc"
+    },
+    {
+      "check": "final page 3: identical to visually reviewed render",
+      "passed": true,
+      "actual": "09b1d8ac02c43b72ecb8e76a8ebeceb012c3ec3b8ebde896d495e64ab20cdd9e",
+      "expected": "09b1d8ac02c43b72ecb8e76a8ebeceb012c3ec3b8ebde896d495e64ab20cdd9e"
+    },
+    {
+      "check": "final page 4: identical to visually reviewed render",
+      "passed": true,
+      "actual": "8469c26c5fa2e627f9e4c08f94e002576ffba10a6e9867cc8b286860ff9c33ab",
+      "expected": "8469c26c5fa2e627f9e4c08f94e002576ffba10a6e9867cc8b286860ff9c33ab"
+    },
+    {
+      "check": "final page 5: identical to visually reviewed render",
+      "passed": true,
+      "actual": "e694d79ee7d57e99c2fe1d14d23cfa57d270de1e8bd4b7fac0a22ca25cf8a743",
+      "expected": "e694d79ee7d57e99c2fe1d14d23cfa57d270de1e8bd4b7fac0a22ca25cf8a743"
+    },
+    {
+      "check": "final page 6: identical to visually reviewed render",
+      "passed": true,
+      "actual": "ed3e8cdc5502365bc44be40747187de4ef93e87db61ad6e0fbd20ae5bb80b327",
+      "expected": "ed3e8cdc5502365bc44be40747187de4ef93e87db61ad6e0fbd20ae5bb80b327"
+    },
+    {
+      "check": "final page 7: identical to visually reviewed render",
+      "passed": true,
+      "actual": "376400b3b29079467496c3cba632166def09ee00da040cb1108a96aa1e06232c",
+      "expected": "376400b3b29079467496c3cba632166def09ee00da040cb1108a96aa1e06232c"
+    },
+    {
+      "check": "final page 8: identical to visually reviewed render",
+      "passed": true,
+      "actual": "a7250c2f0830c3dfa5f47ba33522171695542543ee094c2edf6ec3a7e60ca4a4",
+      "expected": "a7250c2f0830c3dfa5f47ba33522171695542543ee094c2edf6ec3a7e60ca4a4"
+    },
+    {
+      "check": "final page 9: identical to visually reviewed render",
+      "passed": true,
+      "actual": "c4dd3df5effb47cd9036ada7ced0e48ad5edc146113e5af17a2364378f070235",
+      "expected": "c4dd3df5effb47cd9036ada7ced0e48ad5edc146113e5af17a2364378f070235"
+    },
+    {
+      "check": "final page 10: identical to visually reviewed render",
+      "passed": true,
+      "actual": "7b2814fb4e112c0efa4228b67827bbdac364e99890cfba23c1990f0dbb1bdabc",
+      "expected": "7b2814fb4e112c0efa4228b67827bbdac364e99890cfba23c1990f0dbb1bdabc"
+    },
+    {
+      "check": "final page 11: identical to visually reviewed render",
+      "passed": true,
+      "actual": "87ff970838222967c5c58d80f1e230be28620223872a5e6a63a7e76b0b340bee",
+      "expected": "87ff970838222967c5c58d80f1e230be28620223872a5e6a63a7e76b0b340bee"
+    },
+    {
+      "check": "final page 12: identical to visually reviewed render",
+      "passed": true,
+      "actual": "240340d9ccd543bb1bd911682db7676f58f5f415e70def8ba6ed4e794cbb66c2",
+      "expected": "240340d9ccd543bb1bd911682db7676f58f5f415e70def8ba6ed4e794cbb66c2"
+    },
+    {
+      "check": "final page 13: identical to visually reviewed render",
+      "passed": true,
+      "actual": "daea18918c7881b63b56b9091d3b0b4c5ba8a1d7b1313331bba4e4545b5628f8",
+      "expected": "daea18918c7881b63b56b9091d3b0b4c5ba8a1d7b1313331bba4e4545b5628f8"
+    },
+    {
+      "check": "final page 14: identical to visually reviewed render",
+      "passed": true,
+      "actual": "6e863ed0175d08b939a0e38cef873bce4b0a6d22311e39a978da8cf0418590b2",
+      "expected": "6e863ed0175d08b939a0e38cef873bce4b0a6d22311e39a978da8cf0418590b2"
+    },
+    {
+      "check": "final page 15: identical to visually reviewed render",
+      "passed": true,
+      "actual": "f2cf051c712f50fa0d11ae1feabd4c09b92cc63bd240373fd641c7e262d91659",
+      "expected": "f2cf051c712f50fa0d11ae1feabd4c09b92cc63bd240373fd641c7e262d91659"
+    },
+    {
+      "check": "final page 16: identical to visually reviewed render",
+      "passed": true,
+      "actual": "776d5328ab9a4ce552a114db2dced1d628de9ca5e5eaf20cb4755441a74a2106",
+      "expected": "776d5328ab9a4ce552a114db2dced1d628de9ca5e5eaf20cb4755441a74a2106"
+    },
+    {
+      "check": "final page 17: identical to visually reviewed render",
+      "passed": true,
+      "actual": "c5c413b4fd16de5464706ec0ac077ede4157f8602b52d921c492981f6440f98f",
+      "expected": "c5c413b4fd16de5464706ec0ac077ede4157f8602b52d921c492981f6440f98f"
+    },
+    {
+      "check": "final page 18: identical to visually reviewed render",
+      "passed": true,
+      "actual": "8db82b416d88145831e1387396f7417fb6d52e6fb1ca04c1fd6c1eafb4353069",
+      "expected": "8db82b416d88145831e1387396f7417fb6d52e6fb1ca04c1fd6c1eafb4353069"
+    },
+    {
+      "check": "note_final2 page 1: identical to visually reviewed render",
+      "passed": true,
+      "actual": "d0905b0289e7d85b5e66b643c5ac1d6dfda2d868e173b9aa9a0bdec166af584d",
+      "expected": "d0905b0289e7d85b5e66b643c5ac1d6dfda2d868e173b9aa9a0bdec166af584d"
+    },
+    {
+      "check": "note_final2 page 2: identical to visually reviewed render",
+      "passed": true,
+      "actual": "fe5a661a575cedbf8bd6546b27c897b57ef9431d32c7773cb2427c3b4707e868",
+      "expected": "fe5a661a575cedbf8bd6546b27c897b57ef9431d32c7773cb2427c3b4707e868"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "A:\\桌面\\study\\企业微观层面_v3.35.docx",
+      "sha256": "da0856f4c8d7f8e2130784c0f4d3123cf10374d75bcb546767a258e533217247",
+      "paragraphs": 166,
+      "tables": 3
+    },
+    {
+      "path": "A:\\桌面\\study\\企业微观层面_v3.35_修订说明.docx",
+      "sha256": "ee84a9fbbe2cb9bcbe1f5eefbd91a1980b272ac832aaf8b2dd1aaf879808c956",
+      "paragraphs": 16,
+      "tables": 0
+    }
+  ],
+  "render_main": "render/final",
+  "render_note": "render/note_final2",
+  "scope": "Document revision and read-only source inspection; no matching, regression, or structural estimation performed."
+}

@@ -1,0 +1,27 @@
+{
+  "source_sha256": "26c16648f50072f6125625bf443163d0ed9291e925d30131b2349ba0b38513ef",
+  "output_sha256": "1519628dcacdd4c461732b1089bce27486d4e092dbe470c0ad533bef3f457c92",
+  "source_preserved": true,
+  "pages": 6,
+  "visual_pages_inspected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "actual_word_open_read_only": true,
+  "native_omml": 55,
+  "editable_tables_including_flowchart": 2,
+  "numbered_equations": 6,
+  "structural_checks_passed": 24,
+  "headers_blank": true,
+  "page_field_preserved": true,
+  "forbidden_pagination_flags_disabled_in_all_parts": true,
+  "approved_deletion_scope": "User approved all seven-part condensation table. Original routine explanations, original Table A1, English enum column, directory-by-year index and 12 numbered equations removed; A.1-A.7 preserved.",
+  "method_review": "Two reviewers: narrative scope and method interface. Three method wording fixes completed and rechecked. Annual index not restored because user approved its removal.",
+  "rendering": "Microsoft Word read-only open and PDF export, PyMuPDF PNG review; final 6 pages visually inspected.",
+  "other_sources_modified": false,
+  "data_matching_estimation_or_model_solving": false
+}

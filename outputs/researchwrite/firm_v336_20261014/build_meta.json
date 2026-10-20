@@ -1,0 +1,36 @@
+{
+  "source": "A:\\桌面\\study\\企业微观层面_v3.35.docx",
+  "source_sha256": "580f238eb7513b83edac094d2c3438617815d84d5815abf2fc4958993dd751e6",
+  "output": "A:\\桌面\\study\\企业微观层面_v3.36.docx",
+  "output_sha256": "2819289f94e1cb07c84985832e95b0787dda4eb81762285288fd3ff669719744",
+  "revised_body_slots": 96,
+  "revised_display_equations": 5,
+  "math_objects": 84,
+  "source_index_page_breaks": [
+    7,
+    24,
+    53,
+    68,
+    111
+  ],
+  "links_added": 10,
+  "preserved_parts": [
+    "[Content_Types].xml",
+    "_rels/.rels",
+    "word/footnotes.xml",
+    "word/endnotes.xml",
+    "word/footer1.xml",
+    "word/theme/theme1.xml",
+    "word/settings.xml",
+    "customXml/item1.xml",
+    "customXml/itemProps1.xml",
+    "word/numbering.xml",
+    "word/styles.xml",
+    "word/webSettings.xml",
+    "word/fontTable.xml",
+    "docProps/app.xml",
+    "customXml/_rels/item1.xml.rels"
+  ],
+  "math_engine": "latex2mathml + Microsoft MML2OMML",
+  "notes": "Source style/geometry/footer preserved; all prohibited pagination controls disabled."
+}

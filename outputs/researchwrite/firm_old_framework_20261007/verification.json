@@ -1,0 +1,21 @@
+{
+  "output": "A:\\桌面\\study\\企业微观层面_新方案_框架重写版.docx",
+  "sha256": "dfe306f356bb7fded89e38e50b13641854f037972ff1a709b39d4dbf168bad7c",
+  "pages": 11,
+  "main_sections": 7,
+  "subsections": 16,
+  "tables": 3,
+  "display_formulas": 17,
+  "native_math": 100,
+  "source_files_unchanged": true,
+  "native_math_styles_passed": true,
+  "word_opens": true,
+  "pdf_bounds_passed": true,
+  "visual_review_pending": false,
+  "visual_review_passed": true,
+  "content_review_passed": true,
+  "visual_reviewers": {
+    "luna_framework_visual": "pages 1-5",
+    "root": "pages 6-11"
+  }
+}

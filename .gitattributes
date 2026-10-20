@@ -1,0 +1,16 @@
+# Preserve the exact bytes of research files during synchronization.
+* -text
+
+*.pdf binary
+*.doc binary
+*.docx binary
+*.xls binary
+*.xlsx binary
+*.ppt binary
+*.pptx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
+*.dta binary

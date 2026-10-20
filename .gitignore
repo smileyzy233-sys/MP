@@ -1,0 +1,10 @@
+# Large local tax-survey datasets (keep on this computer).
+/税收调查数据/**/*.dta
+
+# Local build caches and Python bytecode.
+/.codex_route_build/
+__pycache__/
+*.py[cod]
+
+# Microsoft Office lock files.
+~$*

@@ -1,0 +1,17 @@
+{
+  "source": "A:\\桌面\\study\\企业微观层面_v4.docx",
+  "source_sha256": "26c16648f50072f6125625bf443163d0ed9291e925d30131b2349ba0b38513ef",
+  "output": "A:\\桌面\\study\\企业微观层面_v4.1.docx",
+  "output_sha256": "1519628dcacdd4c461732b1089bce27486d4e092dbe470c0ad533bef3f457c92",
+  "source_characters": 14732,
+  "final_characters": 5388,
+  "numbered_equations": 6,
+  "native_math": 55,
+  "tables": 2,
+  "layout_breaks": [
+    "A.1 研究问题与作用机制",
+    "表A1  清单限制的基准评分",
+    "参考文献与资料"
+  ],
+  "approval": "User: 全部同意; scoped table in previous turn"
+}

@@ -1,0 +1,31 @@
+{
+  "source": "A:\\桌面\\study\\企业微观层面_v4.1.docx",
+  "source_sha256": "c5d3036fd15222b2a7c60d63547a895ac9bbccd304384bcf9c0975fc91f0827f",
+  "output": "A:\\桌面\\study\\企业微观层面_v4.1_文字重写版.docx",
+  "output_sha256": "debe77d3432c7f239c6af4fcf0c282d87d886a51ff121b5ec8795b9fecf5ceac",
+  "revised_paragraphs": 31,
+  "math_objects": 60,
+  "numbered_formulas": 6,
+  "tables": 3,
+  "source_title_preserved": true,
+  "score_table_and_example_unchanged": true,
+  "non_document_parts_unchanged": [
+    "[Content_Types].xml",
+    "_rels/.rels",
+    "word/_rels/document.xml.rels",
+    "word/footnotes.xml",
+    "word/endnotes.xml",
+    "word/footer1.xml",
+    "word/theme/theme1.xml",
+    "word/settings.xml",
+    "customXml/item1.xml",
+    "customXml/itemProps1.xml",
+    "word/numbering.xml",
+    "word/styles.xml",
+    "word/webSettings.xml",
+    "word/fontTable.xml",
+    "docProps/core.xml",
+    "docProps/app.xml",
+    "customXml/_rels/item1.xml.rels"
+  ]
+}

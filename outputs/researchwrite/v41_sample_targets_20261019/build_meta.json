@@ -1,0 +1,32 @@
+{
+  "path": "A:\\桌面\\study\\企业微观层面_v4.1.docx",
+  "before_sha256": "879ad86c74bb105f021d995a981da3d3d8e7599d64cb0eb8ae9feeb56d4b2c1b",
+  "after_sha256": "679e4b7644c635938364de86e113aea0ceee175cc80cad1ba2a3cd87484c6e47",
+  "changed_body_blocks": [
+    1,
+    3,
+    11,
+    32,
+    33,
+    34,
+    37,
+    38,
+    39,
+    40,
+    43,
+    46,
+    50
+  ],
+  "numbered_equations_unchanged": true,
+  "numbered_equations": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "tables": 3,
+  "pagination_flags_disabled": [],
+  "only_document_overwritten": "A:\\桌面\\study\\企业微观层面_v4.1.docx"
+}

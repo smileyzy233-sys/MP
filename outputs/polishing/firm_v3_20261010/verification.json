@@ -1,0 +1,42 @@
+{
+  "checks": {
+    "source_unchanged": true,
+    "output_matches_edit": true,
+    "zip_integrity": true,
+    "same_package_parts": true,
+    "only_document_and_footnotes_changed": true,
+    "math_preserved": true,
+    "paragraph_properties_preserved": true,
+    "table_properties_preserved": true,
+    "cell_properties_preserved": true,
+    "sections_preserved": true,
+    "hyperlinks_preserved": true,
+    "footnote_markers_preserved": true,
+    "paragraph_count_preserved": true,
+    "headings_preserved": true,
+    "numbered_equations_preserved": true,
+    "requested_sentence_replaced": true,
+    "no_placeholders": true,
+    "math_count_116": true,
+    "table_count_4": true,
+    "no_images_added": true,
+    "footnote_hyperlinks_preserved": true,
+    "footnote_properties_preserved": true,
+    "equation_numbers": true,
+    "equation_references_resolve": true,
+    "section_references_resolve": true,
+    "all_pages_searchable": true,
+    "no_render_replacement_glyph": true,
+    "all_equations_rendered": true
+  },
+  "all_passed": true,
+  "pages": 15,
+  "text_characters": {
+    "before": 10301,
+    "after": 11470
+  },
+  "source_sha256": "5834d5a820f7e083f3e90b1c10dc32162ce01aa63bdf406ae026dea1d20d2fed",
+  "output_sha256": "432a14738c835627fe28d14a48977d80dabb4ae1d42cc063e756cd0005b1b3d8",
+  "render": "A:\\桌面\\study\\outputs\\polishing\\firm_v3_20261010\\render\\round2",
+  "method_scope": "Language edits; no data estimation or model changes."
+}

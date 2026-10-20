@@ -1,0 +1,20 @@
+{
+  "status": "accepted",
+  "output_sha256": "f7792b617b2237c50d42f25ac76a2fe0e25aa641ddc2e9e4532e45384554d271",
+  "actual_native_word_open": true,
+  "pages": 13,
+  "numbered_equations_native_unchanged": 16,
+  "text_reduction_percent": 35.0,
+  "all_pagination_controls_disabled": true,
+  "source_unchanged": true,
+  "visual_reviews": {
+    "data_audit": "pages 1–4 passed",
+    "policy_audit": "pages 5–8 passed",
+    "mapping_model_audit": "pages 9–13 passed",
+    "root": "complex tables, equations and transitions checked"
+  },
+  "changes": "Removed generic pending-work prose and provenance detail; clarified inputs, operations, variables and empirical–structural links; retained substantive methodological bounds.",
+  "deliverables": [
+    "A:\\桌面\\study\\企业微观层面_v3.37.docx"
+  ]
+}

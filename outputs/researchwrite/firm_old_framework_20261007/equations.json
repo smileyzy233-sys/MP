@@ -1,0 +1,502 @@
+[
+  {
+    "latex": "m",
+    "display": false,
+    "text": "m"
+  },
+  {
+    "latex": "i",
+    "display": false,
+    "text": "i"
+  },
+  {
+    "latex": "n",
+    "display": false,
+    "text": "n"
+  },
+  {
+    "latex": "j",
+    "display": false,
+    "text": "j"
+  },
+  {
+    "latex": "u",
+    "display": false,
+    "text": "u"
+  },
+  {
+    "latex": "r",
+    "display": false,
+    "text": "r"
+  },
+  {
+    "latex": "f",
+    "display": false,
+    "text": "f"
+  },
+  {
+    "latex": "t",
+    "display": false,
+    "text": "t"
+  },
+  {
+    "latex": "e",
+    "display": false,
+    "text": "e"
+  },
+  {
+    "latex": "C",
+    "display": false,
+    "text": "C"
+  },
+  {
+    "latex": "\\boldsymbol z_{urt}\\to Z_{ft,e}\\to\\widehat{\\boldsymbol\\mu}\\to\\widehat{\\boldsymbol\\delta}\\to\\widehat\\xi_{Cmj}\\to\\{X,P,w,N,W\\}.",
+    "display": true,
+    "text": "zurt→Zft,e→μ→δ→ξCmj→{X,P,w,N,W}."
+  },
+  {
+    "latex": "\\boldsymbol z_{urt}",
+    "display": false,
+    "text": "zurt"
+  },
+  {
+    "latex": "Z_{ft,e}",
+    "display": false,
+    "text": "Zft,e"
+  },
+  {
+    "latex": "\\widehat{\\boldsymbol\\mu}",
+    "display": false,
+    "text": "μ"
+  },
+  {
+    "latex": "\\widehat{\\boldsymbol\\delta}",
+    "display": false,
+    "text": "δ"
+  },
+  {
+    "latex": "\\widehat\\xi_{Cmj}",
+    "display": false,
+    "text": "ξCmj"
+  },
+  {
+    "latex": "X",
+    "display": false,
+    "text": "X"
+  },
+  {
+    "latex": "P",
+    "display": false,
+    "text": "P"
+  },
+  {
+    "latex": "w",
+    "display": false,
+    "text": "w"
+  },
+  {
+    "latex": "N",
+    "display": false,
+    "text": "N"
+  },
+  {
+    "latex": "W",
+    "display": false,
+    "text": "W"
+  },
+  {
+    "latex": "u",
+    "display": false,
+    "text": "u"
+  },
+  {
+    "latex": "r",
+    "display": false,
+    "text": "r"
+  },
+  {
+    "latex": "t",
+    "display": false,
+    "text": "t"
+  },
+  {
+    "latex": "\\boldsymbol z_{urt}=(P_{urt},E_{urt},C_{urt},O_{urt},G_{urt},R_{urt}).",
+    "display": true,
+    "text": "zurt=(Purt,Eurt,Curt,Ourt,Gurt,Rurt)."
+  },
+  {
+    "latex": "\\operatorname{cap}",
+    "display": false,
+    "text": "cap"
+  },
+  {
+    "latex": "E_{urt}=1-\\operatorname{cap}_{urt}.",
+    "display": true,
+    "text": "Eurt=1-capurt."
+  },
+  {
+    "latex": "E",
+    "display": false,
+    "text": "E"
+  },
+  {
+    "latex": "\\operatorname{cap}",
+    "display": false,
+    "text": "cap"
+  },
+  {
+    "latex": "C",
+    "display": false,
+    "text": "C"
+  },
+  {
+    "latex": "R",
+    "display": false,
+    "text": "R"
+  },
+  {
+    "latex": "e",
+    "display": false,
+    "text": "e"
+  },
+  {
+    "latex": "q_{f,e0}",
+    "display": false,
+    "text": "qf,e0"
+  },
+  {
+    "latex": "s_{fu,e}=\\operatorname{cos}\\!\\left(\\operatorname{emb}(q_{f,e0}),\\operatorname{emb}(A_u)\\right).",
+    "display": true,
+    "text": "sfu,e=cos(emb(qf,e0),emb(Au))."
+  },
+  {
+    "latex": "A_u",
+    "display": false,
+    "text": "Au"
+  },
+  {
+    "latex": "a_{fur,e0}",
+    "display": false,
+    "text": "afur,e0"
+  },
+  {
+    "latex": "k",
+    "display": false,
+    "text": "k"
+  },
+  {
+    "latex": "Z_{ft,e}^{k}=\\sum_{u,r}a_{fur,e0}z_{urt}^{k},\\qquad\\sum_{u,r}a_{fur,e0}=1,\\quad k\\in\\{P,E,C,O,G,R\\}.",
+    "display": true,
+    "text": "Zft,ek=u,rafur,e0zurtk,u,rafur,e0=1,k∈{P,E,C,O,G,R}."
+  },
+  {
+    "latex": "e",
+    "display": false,
+    "text": "e"
+  },
+  {
+    "latex": "b\\in\\{F,D\\}",
+    "display": false,
+    "text": "b∈{F,D}"
+  },
+  {
+    "latex": "Y_{urt}^{b}",
+    "display": false,
+    "text": "Yurtb"
+  },
+  {
+    "latex": "\\mathcal X",
+    "display": false,
+    "text": "X"
+  },
+  {
+    "latex": "e",
+    "display": false,
+    "text": "e"
+  },
+  {
+    "latex": "\\mathbb E[Y_{urt}^{b}\\mid\\mathcal X,e]=\\exp\\!\\left[\\alpha_{ur,e}^{b}+\\lambda_{j(u)t,e}^{b}+\\eta_{rt,e}^{b}+B_{ur,e}'\\pi_t^{b}+L_{ur,e}^{b}(t)\\right].",
+    "display": true,
+    "text": "E[Yurtb|X,e]=exp[αur,eb+λj(u)t,eb+ηrt,eb+Bur,e′πtb+Lur,eb(t)]."
+  },
+  {
+    "latex": "L_{ur,e}^{b}(t)=\\sum_{h\\in\\mathcal H_e,\\ h\\ne-1}\\beta_{e,h}^{b}T_{ur,e}\\mathbf 1(t-t_e=h).",
+    "display": true,
+    "text": "Lur,eb(t)=h∈He,h≠-1βe,hbTur,e1(t-te=h)."
+  },
+  {
+    "latex": "T_{ur,e}",
+    "display": false,
+    "text": "Tur,e"
+  },
+  {
+    "latex": "h=t-t_e",
+    "display": false,
+    "text": "h=t-te"
+  },
+  {
+    "latex": "\\mathcal H_e",
+    "display": false,
+    "text": "He"
+  },
+  {
+    "latex": "h=-1",
+    "display": false,
+    "text": "h=-1"
+  },
+  {
+    "latex": "B_{ur,e}",
+    "display": false,
+    "text": "Bur,e"
+  },
+  {
+    "latex": "\\exp(\\beta_{e,h}^{b})-1",
+    "display": false,
+    "text": "exp(βe,hb)-1"
+  },
+  {
+    "latex": "Q_{furt}",
+    "display": false,
+    "text": "Qfurt"
+  },
+  {
+    "latex": "u",
+    "display": false,
+    "text": "u"
+  },
+  {
+    "latex": "r",
+    "display": false,
+    "text": "r"
+  },
+  {
+    "latex": "D_{ft}^{F}",
+    "display": false,
+    "text": "DftF"
+  },
+  {
+    "latex": "F_{urt}={\\sum_f D_{ft}^{F}Q_{furt}},\\qquad D_{urt}={\\sum_f(1-D_{ft}^{F})Q_{furt}}.",
+    "display": true,
+    "text": "Furt=fDftFQfurt,Durt=f(1-DftF)Qfurt."
+  },
+  {
+    "latex": "M_{jt}^{\\mathrm{obs}}=\\frac{\\sum_{u\\in j,r}F_{urt}}{\\sum_{u\\in j,r}(F_{urt}+D_{urt})}.",
+    "display": true,
+    "text": "Mjtobs=u∈j,rFurtu∈j,r(Furt+Durt)."
+  },
+  {
+    "latex": "v=1",
+    "display": false,
+    "text": "v=1"
+  },
+  {
+    "latex": "v=0",
+    "display": false,
+    "text": "v=0"
+  },
+  {
+    "latex": "\\mathcal S_{je}",
+    "display": false,
+    "text": "Sje"
+  },
+  {
+    "latex": "e",
+    "display": false,
+    "text": "e"
+  },
+  {
+    "latex": "j",
+    "display": false,
+    "text": "j"
+  },
+  {
+    "latex": "\\widehat M_{jte}^{\\,v}=\\frac{\\sum_{(u,r)\\in \\mathcal S_{je}}\\widehat F_{urte}^{\\,v}}{\\sum_{(u,r)\\in \\mathcal S_{je}}(\\widehat F_{urte}^{\\,v}+\\widehat D_{urte}^{\\,v})},\\qquad v\\in\\{0,1\\}.",
+    "display": true,
+    "text": "Mjtev=(u,r)∈SjeFurtev(u,r)∈Sje(Furtev+Durtev),v∈{0,1}."
+  },
+  {
+    "latex": "\\mathcal S_{je}",
+    "display": false,
+    "text": "Sje"
+  },
+  {
+    "latex": "\\delta_j",
+    "display": false,
+    "text": "δj"
+  },
+  {
+    "latex": "\\delta_j",
+    "display": false,
+    "text": "δj"
+  },
+  {
+    "latex": "\\mathcal V_j",
+    "display": false,
+    "text": "Vj"
+  },
+  {
+    "latex": "X_{nCmj}",
+    "display": false,
+    "text": "XnCmj"
+  },
+  {
+    "latex": "P",
+    "display": false,
+    "text": "P"
+  },
+  {
+    "latex": "Q_{Cmj}={\\sum_n\\mathcal V_j(X_{nCmj},\\tau_{nCj},P)},\\qquad M_{Cj}=\\frac{\\sum_{m\\ne C}Q_{Cmj}}{\\sum_m Q_{Cmj}}.",
+    "display": true,
+    "text": "QCmj=nVj(XnCmj,τnCj,P),MCj=m≠CQCmjmQCmj."
+  },
+  {
+    "latex": "X/\\tau",
+    "display": false,
+    "text": "Xτ"
+  },
+  {
+    "latex": "\\mathcal G^c(\\boldsymbol\\delta)",
+    "display": false,
+    "text": "Gc(δ)"
+  },
+  {
+    "latex": "c\\in\\{PE,GE\\}",
+    "display": false,
+    "text": "c∈{PE,GE}"
+  },
+  {
+    "latex": "\\mathcal O",
+    "display": false,
+    "text": "O"
+  },
+  {
+    "latex": "\\widehat{\\boldsymbol\\mu}",
+    "display": false,
+    "text": "μ"
+  },
+  {
+    "latex": "\\mathbf v(\\boldsymbol\\delta)=\\Delta\\mathcal O\\!\\left(\\mathcal G^c(\\boldsymbol\\delta)\\right)-\\widehat{\\boldsymbol\\mu}.",
+    "display": true,
+    "text": "v(δ)=ΔO(Gc(δ))-μ."
+  },
+  {
+    "latex": "\\widehat{\\boldsymbol\\delta}=\\underset{\\boldsymbol\\delta\\in\\mathcal D}{\\operatorname{argmin}}\\mathbf v(\\boldsymbol\\delta)'W\\mathbf v(\\boldsymbol\\delta).",
+    "display": true,
+    "text": "δ=argminδ∈Dv(δ)′Wv(δ)."
+  },
+  {
+    "latex": "\\Delta\\mathcal O",
+    "display": false,
+    "text": "ΔO"
+  },
+  {
+    "latex": "\\mathcal D",
+    "display": false,
+    "text": "D"
+  },
+  {
+    "latex": "W",
+    "display": false,
+    "text": "W"
+  },
+  {
+    "latex": "\\mathcal S_{je}",
+    "display": false,
+    "text": "Sje"
+  },
+  {
+    "latex": "\\theta_j/(1-\\rho_j)",
+    "display": false,
+    "text": "θj/(1-ρj)"
+  },
+  {
+    "latex": "F_{nj}",
+    "display": false,
+    "text": "Fnj"
+  },
+  {
+    "latex": "n",
+    "display": false,
+    "text": "n"
+  },
+  {
+    "latex": "\\xi_{imj}",
+    "display": false,
+    "text": "ξimj"
+  },
+  {
+    "latex": "m",
+    "display": false,
+    "text": "m"
+  },
+  {
+    "latex": "i",
+    "display": false,
+    "text": "i"
+  },
+  {
+    "latex": "j",
+    "display": false,
+    "text": "j"
+  },
+  {
+    "latex": "d_{imj}^{MP}=\\frac{1}{\\xi_{imj}}.",
+    "display": true,
+    "text": "dimjMP=1ξimj."
+  },
+  {
+    "latex": "\\delta_j",
+    "display": false,
+    "text": "δj"
+  },
+  {
+    "latex": "\\delta_j<0",
+    "display": false,
+    "text": "δj<0"
+  },
+  {
+    "latex": "\\widehat d_{Cmj}^{MP}=\\exp(\\delta_j),\\qquad \\widehat\\xi_{Cmj}=\\exp(-\\delta_j),\\quad m\\ne C.",
+    "display": true,
+    "text": "dCmjMP=exp(δj),ξCmj=exp(-δj),m≠C."
+  },
+  {
+    "latex": "\\delta_j",
+    "display": false,
+    "text": "δj"
+  },
+  {
+    "latex": "\\delta_{mj}",
+    "display": false,
+    "text": "δmj"
+  },
+  {
+    "latex": "\\mathcal J_R",
+    "display": false,
+    "text": "JR"
+  },
+  {
+    "latex": "\\widehat\\xi_{imj}=\\begin{cases}\\exp(-\\widehat\\delta_j),&i=C,\\ m\\ne C,\\ j\\in\\mathcal J_R,\\\\1,&\\text{其他关系}.\\end{cases}",
+    "display": true,
+    "text": "ξimj=exp(-δj),i=C,m≠C,j∈JR,1,其他关系."
+  },
+  {
+    "latex": "i=C",
+    "display": false,
+    "text": "i=C"
+  },
+  {
+    "latex": "m",
+    "display": false,
+    "text": "m"
+  },
+  {
+    "latex": "n",
+    "display": false,
+    "text": "n"
+  },
+  {
+    "latex": "\\Delta X_{nCmj}=X_{nCmj}^{\\mathrm{cf}}-X_{nCmj}^{0}.",
+    "display": true,
+    "text": "ΔXnCmj=XnCmjcf-XnCmj0."
+  }
+]

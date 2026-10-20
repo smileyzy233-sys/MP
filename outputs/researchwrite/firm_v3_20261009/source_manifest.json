@@ -1,0 +1,58 @@
+[
+  {
+    "label": "current",
+    "path": "A:\\桌面\\study\\企业微观层面_新方案_框架重写版.docx",
+    "sha256": "193a324b840c11ca20c3eb33cde7d4d7ed54e4ff36437249a47d3571078b1f43",
+    "bytes": 50599,
+    "paragraphs": 164,
+    "math": 100,
+    "tables": 3,
+    "sections": 1
+  },
+  {
+    "label": "old",
+    "path": "A:\\桌面\\study\\旧版方案\\企业微观层面.docx",
+    "sha256": "9529a7c9faf421655cac75852afe78a3a939536124666304c6fcae78a1c12138",
+    "bytes": 34520,
+    "paragraphs": 162,
+    "math": 96,
+    "tables": 3,
+    "sections": 1
+  },
+  {
+    "label": "reply_final",
+    "path": "A:\\桌面\\制度性开放\\审稿意见\\手动改和写\\审稿人回复.docx",
+    "sha256": "e82150a52e56d1cd276e669d5c300b2c55861b1d50202ddd35d0183529ffb608",
+    "bytes": 324547,
+    "paragraphs": 195,
+    "math": 95,
+    "tables": 3,
+    "sections": 1
+  },
+  {
+    "label": "reply_original",
+    "path": "A:\\桌面\\制度性开放\\审稿意见\\手动改和写\\对审稿报告一的回复(2)(1).docx",
+    "sha256": "a576f445fb62824c99ca3acba66f52330b05248897d2091f98bcc357a5dbec38",
+    "bytes": 315622,
+    "paragraphs": 182,
+    "math": 64,
+    "tables": 3,
+    "sections": 1
+  },
+  {
+    "label": "revision_instructions",
+    "path": "A:\\桌面\\制度性开放\\审稿意见\\手动改和写\\修改意见.docx",
+    "sha256": "6dc722436d82d8e23570da2ad008705f73e3362fa24f2b9ac28917d053d09e80",
+    "bytes": 145852,
+    "paragraphs": 8,
+    "math": 0,
+    "tables": 0,
+    "sections": 1
+  },
+  {
+    "label": "flow_reference",
+    "path": "A:\\桌面\\制度性开放\\审稿意见\\手动改和写\\流程图.pptx",
+    "sha256": "692d2d0198fb34beb2cc0f8d2c33946afd930a5044f2c65f24b6f2e332804317",
+    "bytes": 52238
+  }
+]

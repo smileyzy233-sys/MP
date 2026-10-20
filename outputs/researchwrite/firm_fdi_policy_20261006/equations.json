@@ -1,0 +1,524 @@
+[
+  {
+    "latex": "f",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>f</ns0:mi></ns0:math>",
+    "native_text": "f"
+  },
+  {
+    "latex": "u",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>u</ns0:mi></ns0:math>",
+    "native_text": "u"
+  },
+  {
+    "latex": "r",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>r</ns0:mi></ns0:math>",
+    "native_text": "r"
+  },
+  {
+    "latex": "t",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>t</ns0:mi></ns0:math>",
+    "native_text": "t"
+  },
+  {
+    "latex": "e",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>e</ns0:mi></ns0:math>",
+    "native_text": "e"
+  },
+  {
+    "latex": "j",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>j</ns0:mi></ns0:math>",
+    "native_text": "j"
+  },
+  {
+    "latex": "m",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>m</ns0:mi></ns0:math>",
+    "native_text": "m"
+  },
+  {
+    "latex": "i",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>i</ns0:mi></ns0:math>",
+    "native_text": "i"
+  },
+  {
+    "latex": "n",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>n</ns0:mi></ns0:math>",
+    "native_text": "n"
+  },
+  {
+    "latex": "C",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>C</ns0:mi></ns0:math>",
+    "native_text": "C"
+  },
+  {
+    "latex": "u",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>u</ns0:mi></ns0:math>",
+    "native_text": "u"
+  },
+  {
+    "latex": "r",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>r</ns0:mi></ns0:math>",
+    "native_text": "r"
+  },
+  {
+    "latex": "t",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>t</ns0:mi></ns0:math>",
+    "native_text": "t"
+  },
+  {
+    "latex": "\\boldsymbol z_{urt}=(P_{urt},E_{urt},C_{urt},O_{urt},G_{urt},R_{urt}).",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:msub><ns0:mstyle mathvariant=\"bold-italic\"><ns0:mi>z</ns0:mi></ns0:mstyle><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>=</ns0:mo><ns0:mo>(</ns0:mo><ns0:msub><ns0:mi>P</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>,</ns0:mo><ns0:msub><ns0:mi>E</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>,</ns0:mo><ns0:msub><ns0:mi>C</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>,</ns0:mo><ns0:msub><ns0:mi>O</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>,</ns0:mo><ns0:msub><ns0:mi>G</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>,</ns0:mo><ns0:msub><ns0:mi>R</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>)</ns0:mo><ns0:mo>.</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "zurt=(Purt,Eurt,Curt,Ourt,Gurt,Rurt)."
+  },
+  {
+    "latex": "\\mathrm{cap}_{urt}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mstyle mathvariant=\"normal\"><ns0:mrow><ns0:mi>c</ns0:mi><ns0:mi>a</ns0:mi><ns0:mi>p</ns0:mi></ns0:mrow></ns0:mstyle><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "capurt"
+  },
+  {
+    "latex": "E_{urt}=1-\\mathrm{cap}_{urt}.",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:msub><ns0:mi>E</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>=</ns0:mo><ns0:mn>1</ns0:mn><ns0:mo>-</ns0:mo><ns0:msub><ns0:mstyle mathvariant=\"normal\"><ns0:mrow><ns0:mi>c</ns0:mi><ns0:mi>a</ns0:mi><ns0:mi>p</ns0:mi></ns0:mrow></ns0:mstyle><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>.</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "Eurt=1-capurt."
+  },
+  {
+    "latex": "E_{urt}=0",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:msub><ns0:mi>E</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>=</ns0:mo><ns0:mn>0</ns0:mn></ns0:mrow></ns0:math>",
+    "native_text": "Eurt=0"
+  },
+  {
+    "latex": "u",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>u</ns0:mi></ns0:math>",
+    "native_text": "u"
+  },
+  {
+    "latex": "r",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>r</ns0:mi></ns0:math>",
+    "native_text": "r"
+  },
+  {
+    "latex": "t",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>t</ns0:mi></ns0:math>",
+    "native_text": "t"
+  },
+  {
+    "latex": "Q_{furt}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mi>Q</ns0:mi><ns0:mrow><ns0:mi>f</ns0:mi><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "Qfurt"
+  },
+  {
+    "latex": "u",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>u</ns0:mi></ns0:math>",
+    "native_text": "u"
+  },
+  {
+    "latex": "r",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>r</ns0:mi></ns0:math>",
+    "native_text": "r"
+  },
+  {
+    "latex": "D^F_{ft}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msubsup><ns0:mi>D</ns0:mi><ns0:mrow><ns0:mi>f</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow><ns0:mi>F</ns0:mi></ns0:msubsup></ns0:math>",
+    "native_text": "DftF"
+  },
+  {
+    "latex": "F_{urt}={\\sum_fD^F_{ft}Q_{furt}},\\qquad D_{urt}={\\sum_f(1-D^F_{ft})Q_{furt}}.",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:msub><ns0:mi>F</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>=</ns0:mo><ns0:mrow><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mi>f</ns0:mi></ns0:munder><ns0:msubsup><ns0:mi>D</ns0:mi><ns0:mrow><ns0:mi>f</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow><ns0:mi>F</ns0:mi></ns0:msubsup><ns0:msub><ns0:mi>Q</ns0:mi><ns0:mrow><ns0:mi>f</ns0:mi><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub></ns0:mrow><ns0:mo>,</ns0:mo><ns0:mspace width=\"2em\"/><ns0:msub><ns0:mi>D</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>=</ns0:mo><ns0:mrow><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mi>f</ns0:mi></ns0:munder><ns0:mo>(</ns0:mo><ns0:mn>1</ns0:mn><ns0:mo>-</ns0:mo><ns0:msubsup><ns0:mi>D</ns0:mi><ns0:mrow><ns0:mi>f</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow><ns0:mi>F</ns0:mi></ns0:msubsup><ns0:mo>)</ns0:mo><ns0:msub><ns0:mi>Q</ns0:mi><ns0:mrow><ns0:mi>f</ns0:mi><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub></ns0:mrow><ns0:mo>.</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "Furt=fDftFQfurt,Durt=f(1-DftF)Qfurt."
+  },
+  {
+    "latex": "M^{\\mathrm{obs}}_{jt}=\\frac{\\sum_{u\\in j,r}F_{urt}}{\\sum_{u\\in j,r}(F_{urt}+D_{urt})}.",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:msubsup><ns0:mi>M</ns0:mi><ns0:mrow><ns0:mi>j</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow><ns0:mstyle mathvariant=\"normal\"><ns0:mrow><ns0:mi>o</ns0:mi><ns0:mi>b</ns0:mi><ns0:mi>s</ns0:mi></ns0:mrow></ns0:mstyle></ns0:msubsup><ns0:mo>=</ns0:mo><ns0:mfrac><ns0:mrow><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mo>∈</ns0:mo><ns0:mi>j</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>r</ns0:mi></ns0:mrow></ns0:munder><ns0:msub><ns0:mi>F</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub></ns0:mrow><ns0:mrow><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mo>∈</ns0:mo><ns0:mi>j</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>r</ns0:mi></ns0:mrow></ns0:munder><ns0:mo>(</ns0:mo><ns0:msub><ns0:mi>F</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>+</ns0:mo><ns0:msub><ns0:mi>D</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>)</ns0:mo></ns0:mrow></ns0:mfrac><ns0:mo>.</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "Mjtobs=u∈j,rFurtu∈j,r(Furt+Durt)."
+  },
+  {
+    "latex": "v=1",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:mi>v</ns0:mi><ns0:mo>=</ns0:mo><ns0:mn>1</ns0:mn></ns0:mrow></ns0:math>",
+    "native_text": "v=1"
+  },
+  {
+    "latex": "v=0",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:mi>v</ns0:mi><ns0:mo>=</ns0:mo><ns0:mn>0</ns0:mn></ns0:mrow></ns0:math>",
+    "native_text": "v=0"
+  },
+  {
+    "latex": "\\mathcal S_{je}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mstyle mathvariant=\"script\"><ns0:mi>S</ns0:mi></ns0:mstyle><ns0:mrow><ns0:mi>j</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "Sje"
+  },
+  {
+    "latex": "j",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>j</ns0:mi></ns0:math>",
+    "native_text": "j"
+  },
+  {
+    "latex": "e",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>e</ns0:mi></ns0:math>",
+    "native_text": "e"
+  },
+  {
+    "latex": "\\widehat M^{v}_{jte}=\\frac{\\sum_{(u,r)\\in\\mathcal S_{je}}\\widehat F^{v}_{urte}}{\\sum_{(u,r)\\in\\mathcal S_{je}}(\\widehat F^{v}_{urte}+\\widehat D^{v}_{urte})}.",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:msubsup><ns0:mover accent=\"true\"><ns0:mi>M</ns0:mi><ns0:mo>^</ns0:mo></ns0:mover><ns0:mrow><ns0:mi>j</ns0:mi><ns0:mi>t</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mi>v</ns0:mi></ns0:msubsup><ns0:mo>=</ns0:mo><ns0:mfrac><ns0:mrow><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mrow><ns0:mo>(</ns0:mo><ns0:mi>u</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>r</ns0:mi><ns0:mo>)</ns0:mo><ns0:mo>∈</ns0:mo><ns0:msub><ns0:mstyle mathvariant=\"script\"><ns0:mi>S</ns0:mi></ns0:mstyle><ns0:mrow><ns0:mi>j</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow></ns0:msub></ns0:mrow></ns0:munder><ns0:msubsup><ns0:mover accent=\"true\"><ns0:mi>F</ns0:mi><ns0:mo>^</ns0:mo></ns0:mover><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mi>v</ns0:mi></ns0:msubsup></ns0:mrow><ns0:mrow><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mrow><ns0:mo>(</ns0:mo><ns0:mi>u</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>r</ns0:mi><ns0:mo>)</ns0:mo><ns0:mo>∈</ns0:mo><ns0:msub><ns0:mstyle mathvariant=\"script\"><ns0:mi>S</ns0:mi></ns0:mstyle><ns0:mrow><ns0:mi>j</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow></ns0:msub></ns0:mrow></ns0:munder><ns0:mo>(</ns0:mo><ns0:msubsup><ns0:mover accent=\"true\"><ns0:mi>F</ns0:mi><ns0:mo>^</ns0:mo></ns0:mover><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mi>v</ns0:mi></ns0:msubsup><ns0:mo>+</ns0:mo><ns0:msubsup><ns0:mover accent=\"true\"><ns0:mi>D</ns0:mi><ns0:mo>^</ns0:mo></ns0:mover><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mi>v</ns0:mi></ns0:msubsup><ns0:mo>)</ns0:mo></ns0:mrow></ns0:mfrac><ns0:mo>.</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "Mjtev=(u,r)∈SjeFurtev(u,r)∈Sje(Furtev+Durtev)."
+  },
+  {
+    "latex": "\\Delta\\widehat M_{jte}=\\widehat M^{1}_{jte}-\\widehat M^{0}_{jte}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:mi>Δ</ns0:mi><ns0:msub><ns0:mover accent=\"true\"><ns0:mi>M</ns0:mi><ns0:mo>^</ns0:mo></ns0:mover><ns0:mrow><ns0:mi>j</ns0:mi><ns0:mi>t</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>=</ns0:mo><ns0:msubsup><ns0:mover accent=\"true\"><ns0:mi>M</ns0:mi><ns0:mo>^</ns0:mo></ns0:mover><ns0:mrow><ns0:mi>j</ns0:mi><ns0:mi>t</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mn>1</ns0:mn></ns0:msubsup><ns0:mo>-</ns0:mo><ns0:msubsup><ns0:mover accent=\"true\"><ns0:mi>M</ns0:mi><ns0:mo>^</ns0:mo></ns0:mover><ns0:mrow><ns0:mi>j</ns0:mi><ns0:mi>t</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mn>0</ns0:mn></ns0:msubsup></ns0:mrow></ns0:math>",
+    "native_text": "ΔMjte=Mjte1-Mjte0"
+  },
+  {
+    "latex": "\\mathcal S_{je}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mstyle mathvariant=\"script\"><ns0:mi>S</ns0:mi></ns0:mstyle><ns0:mrow><ns0:mi>j</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "Sje"
+  },
+  {
+    "latex": "\\mathcal S_{je}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mstyle mathvariant=\"script\"><ns0:mi>S</ns0:mi></ns0:mstyle><ns0:mrow><ns0:mi>j</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "Sje"
+  },
+  {
+    "latex": "e",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>e</ns0:mi></ns0:math>",
+    "native_text": "e"
+  },
+  {
+    "latex": "q\\in\\{F,D\\}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:mi>q</ns0:mi><ns0:mo>∈</ns0:mo><ns0:mo>{</ns0:mo><ns0:mi>F</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>D</ns0:mi><ns0:mo>}</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "q∈{F,D}"
+  },
+  {
+    "latex": "Y^q_{urt}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msubsup><ns0:mi>Y</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow><ns0:mi>q</ns0:mi></ns0:msubsup></ns0:math>",
+    "native_text": "Yurtq"
+  },
+  {
+    "latex": "\\mathbb E[Y^q_{urt}\\mid\\mathcal X,e]=\\exp[\\alpha^q_{ur,e}+\\lambda^q_{j(u)t,e}+\\eta^q_{rt,e}+B_{ur,e}'\\pi^q_t+L^q_{ur,e}(t)].",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:mstyle mathvariant=\"double-struck\"><ns0:mi>E</ns0:mi></ns0:mstyle><ns0:mo>[</ns0:mo><ns0:msubsup><ns0:mi>Y</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow><ns0:mi>q</ns0:mi></ns0:msubsup><ns0:mo>|</ns0:mo><ns0:mstyle mathvariant=\"script\"><ns0:mi>X</ns0:mi></ns0:mstyle><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi><ns0:mo>]</ns0:mo><ns0:mo>=</ns0:mo><ns0:mi mathvariant=\"normal\">exp</ns0:mi><ns0:mo>[</ns0:mo><ns0:msubsup><ns0:mi>α</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mi>q</ns0:mi></ns0:msubsup><ns0:mo>+</ns0:mo><ns0:msubsup><ns0:mi>λ</ns0:mi><ns0:mrow><ns0:mi>j</ns0:mi><ns0:mo>(</ns0:mo><ns0:mi>u</ns0:mi><ns0:mo>)</ns0:mo><ns0:mi>t</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mi>q</ns0:mi></ns0:msubsup><ns0:mo>+</ns0:mo><ns0:msubsup><ns0:mi>η</ns0:mi><ns0:mrow><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mi>q</ns0:mi></ns0:msubsup><ns0:mo>+</ns0:mo><ns0:msubsup><ns0:mi>B</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mo>′</ns0:mo></ns0:msubsup><ns0:msubsup><ns0:mi>π</ns0:mi><ns0:mi>t</ns0:mi><ns0:mi>q</ns0:mi></ns0:msubsup><ns0:mo>+</ns0:mo><ns0:msubsup><ns0:mi>L</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mi>q</ns0:mi></ns0:msubsup><ns0:mo>(</ns0:mo><ns0:mi>t</ns0:mi><ns0:mo>)</ns0:mo><ns0:mo>]</ns0:mo><ns0:mo>.</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "E[Yurtq|X,e]=exp[αur,eq+λj(u)t,eq+ηrt,eq+Bur,e′πtq+Lur,eq(t)]."
+  },
+  {
+    "latex": "L^q_{ur,e}(t)=\\sum_{h\\ne-1}\\beta^q_{e,h}T_{ur,e}\\mathbf1(t-t_e=h).",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:msubsup><ns0:mi>L</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mi>q</ns0:mi></ns0:msubsup><ns0:mo>(</ns0:mo><ns0:mi>t</ns0:mi><ns0:mo>)</ns0:mo><ns0:mo>=</ns0:mo><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mrow><ns0:mi>h</ns0:mi><ns0:mo>≠</ns0:mo><ns0:mo>-</ns0:mo><ns0:mn>1</ns0:mn></ns0:mrow></ns0:munder><ns0:msubsup><ns0:mi>β</ns0:mi><ns0:mrow><ns0:mi>e</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>h</ns0:mi></ns0:mrow><ns0:mi>q</ns0:mi></ns0:msubsup><ns0:msub><ns0:mi>T</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi></ns0:mrow></ns0:msub><ns0:mstyle mathvariant=\"bold\"><ns0:mn>1</ns0:mn></ns0:mstyle><ns0:mo>(</ns0:mo><ns0:mi>t</ns0:mi><ns0:mo>-</ns0:mo><ns0:msub><ns0:mi>t</ns0:mi><ns0:mi>e</ns0:mi></ns0:msub><ns0:mo>=</ns0:mo><ns0:mi>h</ns0:mi><ns0:mo>)</ns0:mo><ns0:mo>.</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "Lur,eq(t)=h≠-1βe,hqTur,e1(t-te=h)."
+  },
+  {
+    "latex": "T_{ur,e}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mi>T</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "Tur,e"
+  },
+  {
+    "latex": "h=-1",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:mi>h</ns0:mi><ns0:mo>=</ns0:mo><ns0:mo>-</ns0:mo><ns0:mn>1</ns0:mn></ns0:mrow></ns0:math>",
+    "native_text": "h=-1"
+  },
+  {
+    "latex": "B_{ur,e}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mi>B</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "Bur,e"
+  },
+  {
+    "latex": "\\exp(\\beta^q_{e,h})-1",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:mi mathvariant=\"normal\">exp</ns0:mi><ns0:mo>(</ns0:mo><ns0:msubsup><ns0:mi>β</ns0:mi><ns0:mrow><ns0:mi>e</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>h</ns0:mi></ns0:mrow><ns0:mi>q</ns0:mi></ns0:msubsup><ns0:mo>)</ns0:mo><ns0:mo>-</ns0:mo><ns0:mn>1</ns0:mn></ns0:mrow></ns0:math>",
+    "native_text": "exp(βe,hq)-1"
+  },
+  {
+    "latex": "a_{fur,e0}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mi>a</ns0:mi><ns0:mrow><ns0:mi>f</ns0:mi><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi><ns0:mn>0</ns0:mn></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "afur,e0"
+  },
+  {
+    "latex": "k",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>k</ns0:mi></ns0:math>",
+    "native_text": "k"
+  },
+  {
+    "latex": "Z^k_{ft,e}={\\sum_{u,r}a_{fur,e0}z^k_{urt}},\\qquad {\\sum_{u,r}a_{fur,e0}}=1.",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:msubsup><ns0:mi>Z</ns0:mi><ns0:mrow><ns0:mi>f</ns0:mi><ns0:mi>t</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mi>k</ns0:mi></ns0:msubsup><ns0:mo>=</ns0:mo><ns0:mrow><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>r</ns0:mi></ns0:mrow></ns0:munder><ns0:msub><ns0:mi>a</ns0:mi><ns0:mrow><ns0:mi>f</ns0:mi><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi><ns0:mn>0</ns0:mn></ns0:mrow></ns0:msub><ns0:msubsup><ns0:mi>z</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mi>t</ns0:mi></ns0:mrow><ns0:mi>k</ns0:mi></ns0:msubsup></ns0:mrow><ns0:mo>,</ns0:mo><ns0:mspace width=\"2em\"/><ns0:mrow><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>r</ns0:mi></ns0:mrow></ns0:munder><ns0:msub><ns0:mi>a</ns0:mi><ns0:mrow><ns0:mi>f</ns0:mi><ns0:mi>u</ns0:mi><ns0:mi>r</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>e</ns0:mi><ns0:mn>0</ns0:mn></ns0:mrow></ns0:msub></ns0:mrow><ns0:mo>=</ns0:mo><ns0:mn>1</ns0:mn><ns0:mo>.</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "Zft,ek=u,rafur,e0zurtk,u,rafur,e0=1."
+  },
+  {
+    "latex": "\\Delta z^k_{ue}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:mi>Δ</ns0:mi><ns0:msubsup><ns0:mi>z</ns0:mi><ns0:mrow><ns0:mi>u</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow><ns0:mi>k</ns0:mi></ns0:msubsup></ns0:mrow></ns0:math>",
+    "native_text": "Δzuek"
+  },
+  {
+    "latex": "m",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>m</ns0:mi></ns0:math>",
+    "native_text": "m"
+  },
+  {
+    "latex": "i",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>i</ns0:mi></ns0:math>",
+    "native_text": "i"
+  },
+  {
+    "latex": "j",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>j</ns0:mi></ns0:math>",
+    "native_text": "j"
+  },
+  {
+    "latex": "\\xi_{imj}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mi>ξ</ns0:mi><ns0:mrow><ns0:mi>i</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "ξimj"
+  },
+  {
+    "latex": "d_{imj}^{MP}\\equiv\\frac{1}{\\xi_{imj}},\\qquad\n\\delta_{mj}\\equiv\\ln\\frac{d_{Cmj}^{MP,\\mathrm{cf}}}{d_{Cmj}^{MP,0}},\\qquad\n\\widehat\\xi_{Cmj}=\\exp(-\\delta_{mj}).",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:msubsup><ns0:mi>d</ns0:mi><ns0:mrow><ns0:mi>i</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow><ns0:mrow><ns0:mi>M</ns0:mi><ns0:mi>P</ns0:mi></ns0:mrow></ns0:msubsup><ns0:mo>≡</ns0:mo><ns0:mfrac><ns0:mn>1</ns0:mn><ns0:msub><ns0:mi>ξ</ns0:mi><ns0:mrow><ns0:mi>i</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub></ns0:mfrac><ns0:mo>,</ns0:mo><ns0:mspace width=\"2em\"/><ns0:msub><ns0:mi>δ</ns0:mi><ns0:mrow><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>≡</ns0:mo><ns0:mi mathvariant=\"normal\">ln</ns0:mi><ns0:mfrac><ns0:msubsup><ns0:mi>d</ns0:mi><ns0:mrow><ns0:mi>C</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow><ns0:mrow><ns0:mi>M</ns0:mi><ns0:mi>P</ns0:mi><ns0:mo>,</ns0:mo><ns0:mstyle mathvariant=\"normal\"><ns0:mrow><ns0:mi>c</ns0:mi><ns0:mi>f</ns0:mi></ns0:mrow></ns0:mstyle></ns0:mrow></ns0:msubsup><ns0:msubsup><ns0:mi>d</ns0:mi><ns0:mrow><ns0:mi>C</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow><ns0:mrow><ns0:mi>M</ns0:mi><ns0:mi>P</ns0:mi><ns0:mo>,</ns0:mo><ns0:mn>0</ns0:mn></ns0:mrow></ns0:msubsup></ns0:mfrac><ns0:mo>,</ns0:mo><ns0:mspace width=\"2em\"/><ns0:msub><ns0:mover accent=\"true\"><ns0:mi>ξ</ns0:mi><ns0:mo>^</ns0:mo></ns0:mover><ns0:mrow><ns0:mi>C</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>=</ns0:mo><ns0:mi mathvariant=\"normal\">exp</ns0:mi><ns0:mo>(</ns0:mo><ns0:mo>-</ns0:mo><ns0:msub><ns0:mi>δ</ns0:mi><ns0:mrow><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>)</ns0:mo><ns0:mo>.</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "dimjMP≡1ξimj,δmj≡lndCmjMP,cfdCmjMP,0,ξCmj=exp(-δmj)."
+  },
+  {
+    "latex": "C",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>C</ns0:mi></ns0:math>",
+    "native_text": "C"
+  },
+  {
+    "latex": "0",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mn>0</ns0:mn></ns0:math>",
+    "native_text": "0"
+  },
+  {
+    "latex": "\\mathrm{cf}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mstyle mathvariant=\"normal\"><ns0:mrow><ns0:mi>c</ns0:mi><ns0:mi>f</ns0:mi></ns0:mrow></ns0:mstyle></ns0:math>",
+    "native_text": "cf"
+  },
+  {
+    "latex": "\\delta_{mj}<0",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:msub><ns0:mi>δ</ns0:mi><ns0:mrow><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>&lt;</ns0:mo><ns0:mn>0</ns0:mn></ns0:mrow></ns0:math>",
+    "native_text": "δmj<0"
+  },
+  {
+    "latex": "\\delta_{mj}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mi>δ</ns0:mi><ns0:mrow><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "δmj"
+  },
+  {
+    "latex": "X_{nCmj}/\\tau_{nCj}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:msub><ns0:mi>X</ns0:mi><ns0:mrow><ns0:mi>n</ns0:mi><ns0:mi>C</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>/</ns0:mo><ns0:msub><ns0:mi>τ</ns0:mi><ns0:mrow><ns0:mi>n</ns0:mi><ns0:mi>C</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub></ns0:mrow></ns0:math>",
+    "native_text": "XnCmjτnCj"
+  },
+  {
+    "latex": "X_{nCmj}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mi>X</ns0:mi><ns0:mrow><ns0:mi>n</ns0:mi><ns0:mi>C</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "XnCmj"
+  },
+  {
+    "latex": "\\mathcal V_j",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mstyle mathvariant=\"script\"><ns0:mi>V</ns0:mi></ns0:mstyle><ns0:mi>j</ns0:mi></ns0:msub></ns0:math>",
+    "native_text": "Vj"
+  },
+  {
+    "latex": "Q_{Cmj}={\\sum_n\\mathcal V_j(X_{nCmj},\\tau_{nCj},P)},\\qquad\nM_{Cj}=\\frac{\\sum_{m\\ne C}Q_{Cmj}}{\\sum_mQ_{Cmj}}.",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:msub><ns0:mi>Q</ns0:mi><ns0:mrow><ns0:mi>C</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>=</ns0:mo><ns0:mrow><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mi>n</ns0:mi></ns0:munder><ns0:msub><ns0:mstyle mathvariant=\"script\"><ns0:mi>V</ns0:mi></ns0:mstyle><ns0:mi>j</ns0:mi></ns0:msub><ns0:mo>(</ns0:mo><ns0:msub><ns0:mi>X</ns0:mi><ns0:mrow><ns0:mi>n</ns0:mi><ns0:mi>C</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>,</ns0:mo><ns0:msub><ns0:mi>τ</ns0:mi><ns0:mrow><ns0:mi>n</ns0:mi><ns0:mi>C</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>,</ns0:mo><ns0:mi>P</ns0:mi><ns0:mo>)</ns0:mo></ns0:mrow><ns0:mo>,</ns0:mo><ns0:mspace width=\"2em\"/><ns0:msub><ns0:mi>M</ns0:mi><ns0:mrow><ns0:mi>C</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>=</ns0:mo><ns0:mfrac><ns0:mrow><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mrow><ns0:mi>m</ns0:mi><ns0:mo>≠</ns0:mo><ns0:mi>C</ns0:mi></ns0:mrow></ns0:munder><ns0:msub><ns0:mi>Q</ns0:mi><ns0:mrow><ns0:mi>C</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub></ns0:mrow><ns0:mrow><ns0:munder><ns0:mo largeop=\"true\" movablelimits=\"true\">∑</ns0:mo><ns0:mi>m</ns0:mi></ns0:munder><ns0:msub><ns0:mi>Q</ns0:mi><ns0:mrow><ns0:mi>C</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub></ns0:mrow></ns0:mfrac><ns0:mo>.</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "QCmj=nVj(XnCmj,τnCj,P),MCj=m≠CQCmjmQCmj."
+  },
+  {
+    "latex": "P",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>P</ns0:mi></ns0:math>",
+    "native_text": "P"
+  },
+  {
+    "latex": "\\mathcal V_j",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mstyle mathvariant=\"script\"><ns0:mi>V</ns0:mi></ns0:mstyle><ns0:mi>j</ns0:mi></ns0:msub></ns0:math>",
+    "native_text": "Vj"
+  },
+  {
+    "latex": "\\mathcal G^c(\\boldsymbol\\delta)",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:msup><ns0:mstyle mathvariant=\"script\"><ns0:mi>G</ns0:mi></ns0:mstyle><ns0:mi>c</ns0:mi></ns0:msup><ns0:mo>(</ns0:mo><ns0:mstyle mathvariant=\"bold-italic\"><ns0:mi>δ</ns0:mi></ns0:mstyle><ns0:mo>)</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "Gc(δ)"
+  },
+  {
+    "latex": "c\\in\\{PE,GE\\}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:mi>c</ns0:mi><ns0:mo>∈</ns0:mo><ns0:mo>{</ns0:mo><ns0:mi>P</ns0:mi><ns0:mi>E</ns0:mi><ns0:mo>,</ns0:mo><ns0:mi>G</ns0:mi><ns0:mi>E</ns0:mi><ns0:mo>}</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "c∈{PE,GE}"
+  },
+  {
+    "latex": "\\mathcal O",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mstyle mathvariant=\"script\"><ns0:mi>O</ns0:mi></ns0:mstyle></ns0:math>",
+    "native_text": "O"
+  },
+  {
+    "latex": "\\widehat{\\boldsymbol\\mu}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mover accent=\"true\"><ns0:mstyle mathvariant=\"bold-italic\"><ns0:mi>μ</ns0:mi></ns0:mstyle><ns0:mo>^</ns0:mo></ns0:mover></ns0:math>",
+    "native_text": "μ"
+  },
+  {
+    "latex": "v(\\boldsymbol\\delta)=\\Delta\\mathcal O(\\mathcal G^c(\\boldsymbol\\delta))-\\widehat{\\boldsymbol\\mu}.",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:mi>v</ns0:mi><ns0:mo>(</ns0:mo><ns0:mstyle mathvariant=\"bold-italic\"><ns0:mi>δ</ns0:mi></ns0:mstyle><ns0:mo>)</ns0:mo><ns0:mo>=</ns0:mo><ns0:mi>Δ</ns0:mi><ns0:mstyle mathvariant=\"script\"><ns0:mi>O</ns0:mi></ns0:mstyle><ns0:mo>(</ns0:mo><ns0:msup><ns0:mstyle mathvariant=\"script\"><ns0:mi>G</ns0:mi></ns0:mstyle><ns0:mi>c</ns0:mi></ns0:msup><ns0:mo>(</ns0:mo><ns0:mstyle mathvariant=\"bold-italic\"><ns0:mi>δ</ns0:mi></ns0:mstyle><ns0:mo>)</ns0:mo><ns0:mo>)</ns0:mo><ns0:mo>-</ns0:mo><ns0:mover accent=\"true\"><ns0:mstyle mathvariant=\"bold-italic\"><ns0:mi>μ</ns0:mi></ns0:mstyle><ns0:mo>^</ns0:mo></ns0:mover><ns0:mo>.</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "v(δ)=ΔO(Gc(δ))-μ."
+  },
+  {
+    "latex": "\\widehat{\\boldsymbol\\delta}=\\underset{\\boldsymbol\\delta\\in\\mathcal D}{\\operatorname{argmin}}\\ v(\\boldsymbol\\delta)'Wv(\\boldsymbol\\delta).",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:mover accent=\"true\"><ns0:mstyle mathvariant=\"bold-italic\"><ns0:mi>δ</ns0:mi></ns0:mstyle><ns0:mo>^</ns0:mo></ns0:mover><ns0:mo>=</ns0:mo><ns0:munder><ns0:mi mathvariant=\"normal\">argmin</ns0:mi><ns0:mrow><ns0:mstyle mathvariant=\"bold-italic\"><ns0:mi>δ</ns0:mi></ns0:mstyle><ns0:mo>∈</ns0:mo><ns0:mstyle mathvariant=\"script\"><ns0:mi>D</ns0:mi></ns0:mstyle></ns0:mrow></ns0:munder><ns0:mspace width=\"0.16em\"/><ns0:mi>v</ns0:mi><ns0:mo>(</ns0:mo><ns0:mstyle mathvariant=\"bold-italic\"><ns0:mi>δ</ns0:mi></ns0:mstyle><ns0:msup><ns0:mo>)</ns0:mo><ns0:mo>′</ns0:mo></ns0:msup><ns0:mi>W</ns0:mi><ns0:mi>v</ns0:mi><ns0:mo>(</ns0:mo><ns0:mstyle mathvariant=\"bold-italic\"><ns0:mi>δ</ns0:mi></ns0:mstyle><ns0:mo>)</ns0:mo><ns0:mo>.</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "δ=argminδ∈Dv(δ)′Wv(δ)."
+  },
+  {
+    "latex": "\\Delta\\mathcal O",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:mi>Δ</ns0:mi><ns0:mstyle mathvariant=\"script\"><ns0:mi>O</ns0:mi></ns0:mstyle></ns0:mrow></ns0:math>",
+    "native_text": "ΔO"
+  },
+  {
+    "latex": "W",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>W</ns0:mi></ns0:math>",
+    "native_text": "W"
+  },
+  {
+    "latex": "\\mathcal D",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mstyle mathvariant=\"script\"><ns0:mi>D</ns0:mi></ns0:mstyle></ns0:math>",
+    "native_text": "D"
+  },
+  {
+    "latex": "\\mathcal S_{je}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mstyle mathvariant=\"script\"><ns0:mi>S</ns0:mi></ns0:mstyle><ns0:mrow><ns0:mi>j</ns0:mi><ns0:mi>e</ns0:mi></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "Sje"
+  },
+  {
+    "latex": "\\delta_j",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mi>δ</ns0:mi><ns0:mi>j</ns0:mi></ns0:msub></ns0:math>",
+    "native_text": "δj"
+  },
+  {
+    "latex": "\\delta_{mj}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mi>δ</ns0:mi><ns0:mrow><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "δmj"
+  },
+  {
+    "latex": "\\delta_j\\simeq-g_j/\\kappa_j",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:msub><ns0:mi>δ</ns0:mi><ns0:mi>j</ns0:mi></ns0:msub><ns0:mo>≈</ns0:mo><ns0:mo>-</ns0:mo><ns0:msub><ns0:mi>g</ns0:mi><ns0:mi>j</ns0:mi></ns0:msub><ns0:mo>/</ns0:mo><ns0:msub><ns0:mi>κ</ns0:mi><ns0:mi>j</ns0:mi></ns0:msub></ns0:mrow></ns0:math>",
+    "native_text": "δj≈-gj/κj"
+  },
+  {
+    "latex": "Q_{Cj}^{F}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msubsup><ns0:mi>Q</ns0:mi><ns0:mrow><ns0:mi>C</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow><ns0:mi>F</ns0:mi></ns0:msubsup></ns0:math>",
+    "native_text": "QCjF"
+  },
+  {
+    "latex": "g_j",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mi>g</ns0:mi><ns0:mi>j</ns0:mi></ns0:msub></ns0:math>",
+    "native_text": "gj"
+  },
+  {
+    "latex": "\\kappa_j",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mi>κ</ns0:mi><ns0:mi>j</ns0:mi></ns0:msub></ns0:math>",
+    "native_text": "κj"
+  },
+  {
+    "latex": "\\kappa_j=-\\left.\\frac{\\partial\\ln Q_{Cj}^{F}}{\\partial\\delta_j}\\right|_{\\boldsymbol\\delta=0}.",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:msub><ns0:mi>κ</ns0:mi><ns0:mi>j</ns0:mi></ns0:msub><ns0:mo>=</ns0:mo><ns0:mo>-</ns0:mo><ns0:mfrac><ns0:mrow><ns0:mo>∂</ns0:mo><ns0:mi mathvariant=\"normal\">ln</ns0:mi><ns0:msubsup><ns0:mi>Q</ns0:mi><ns0:mrow><ns0:mi>C</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow><ns0:mi>F</ns0:mi></ns0:msubsup></ns0:mrow><ns0:mrow><ns0:mo>∂</ns0:mo><ns0:msub><ns0:mi>δ</ns0:mi><ns0:mi>j</ns0:mi></ns0:msub></ns0:mrow></ns0:mfrac><ns0:msub><ns0:mo stretchy=\"true\">|</ns0:mo><ns0:mrow><ns0:mstyle mathvariant=\"bold-italic\"><ns0:mi>δ</ns0:mi></ns0:mstyle><ns0:mo>=</ns0:mo><ns0:mn>0</ns0:mn></ns0:mrow></ns0:msub><ns0:mo>.</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "κj=-∂lnQCjF∂δj|δ=0."
+  },
+  {
+    "latex": "\\theta_j/(1-\\rho_j)",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:msub><ns0:mi>θ</ns0:mi><ns0:mi>j</ns0:mi></ns0:msub><ns0:mo>/</ns0:mo><ns0:mo>(</ns0:mo><ns0:mn>1</ns0:mn><ns0:mo>-</ns0:mo><ns0:msub><ns0:mi>ρ</ns0:mi><ns0:mi>j</ns0:mi></ns0:msub><ns0:mo>)</ns0:mo></ns0:mrow></ns0:math>",
+    "native_text": "θj/(1-ρj)"
+  },
+  {
+    "latex": "F_{nj}",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mi>F</ns0:mi><ns0:mrow><ns0:mi>n</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub></ns0:math>",
+    "native_text": "Fnj"
+  },
+  {
+    "latex": "n",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mi>n</ns0:mi></ns0:math>",
+    "native_text": "n"
+  },
+  {
+    "latex": "\\psi_0=0",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:mrow><ns0:msub><ns0:mi>ψ</ns0:mi><ns0:mn>0</ns0:mn></ns0:msub><ns0:mo>=</ns0:mo><ns0:mn>0</ns0:mn></ns0:mrow></ns0:math>",
+    "native_text": "ψ0=0"
+  },
+  {
+    "latex": "\\widehat\\xi_{imj}=\n\\begin{cases}\n\\exp(-\\widehat\\delta_{mj}),& i=C,\\ m\\ne C,\\ j\\in\\mathcal J_R,\\\\\n1,&\\text{其他关系},\n\\end{cases}",
+    "display": true,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"block\"><ns0:mrow><ns0:msub><ns0:mover accent=\"true\"><ns0:mi>ξ</ns0:mi><ns0:mo>^</ns0:mo></ns0:mover><ns0:mrow><ns0:mi>i</ns0:mi><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>=</ns0:mo><ns0:mfenced open=\"{\" close=\"\"><ns0:mtable columnalign=\"left left\" columnspacing=\"0.8em\"><ns0:mtr><ns0:mtd><ns0:mrow><ns0:mi mathvariant=\"normal\">exp</ns0:mi><ns0:mo>(</ns0:mo><ns0:mo>-</ns0:mo><ns0:msub><ns0:mover accent=\"true\"><ns0:mi>δ</ns0:mi><ns0:mo>^</ns0:mo></ns0:mover><ns0:mrow><ns0:mi>m</ns0:mi><ns0:mi>j</ns0:mi></ns0:mrow></ns0:msub><ns0:mo>)</ns0:mo><ns0:mo>,</ns0:mo></ns0:mrow></ns0:mtd><ns0:mtd><ns0:mrow><ns0:mi>i</ns0:mi><ns0:mo>=</ns0:mo><ns0:mi>C</ns0:mi><ns0:mo>,</ns0:mo><ns0:mspace width=\"0.16em\"/><ns0:mi>m</ns0:mi><ns0:mo>≠</ns0:mo><ns0:mi>C</ns0:mi><ns0:mo>,</ns0:mo><ns0:mspace width=\"0.16em\"/><ns0:mi>j</ns0:mi><ns0:mo>∈</ns0:mo><ns0:msub><ns0:mstyle mathvariant=\"script\"><ns0:mi>J</ns0:mi></ns0:mstyle><ns0:mi>R</ns0:mi></ns0:msub><ns0:mo>,</ns0:mo></ns0:mrow></ns0:mtd></ns0:mtr><ns0:mtr><ns0:mtd><ns0:mrow><ns0:mn>1</ns0:mn><ns0:mo>,</ns0:mo></ns0:mrow></ns0:mtd><ns0:mtd><ns0:mrow><ns0:mtext mathvariant=\"normal\">其他关系</ns0:mtext><ns0:mo>,</ns0:mo></ns0:mrow></ns0:mtd></ns0:mtr></ns0:mtable></ns0:mfenced></ns0:mrow></ns0:math>",
+    "native_text": "ξimj=exp(-δmj),i=C,m≠C,j∈JR,1,其他关系,"
+  },
+  {
+    "latex": "\\mathcal J_R",
+    "display": false,
+    "mathml": "<ns0:math xmlns:ns0=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><ns0:msub><ns0:mstyle mathvariant=\"script\"><ns0:mi>J</ns0:mi></ns0:mstyle><ns0:mi>R</ns0:mi></ns0:msub></ns0:math>",
+    "native_text": "JR"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "rendered_current": {
+    "pages": 18,
+    "math": 69,
+    "tables": 3,
+    "input": "A:\\桌面\\study\\企业微观层面_v3.35.docx",
+    "pdf": "A:\\桌面\\study\\outputs\\researchwrite\\firm_v335_name_match_20261014\\render\\final_current\\document.pdf",
+    "footnotes": 0,
+    "engine": "Microsoft Word isolated read-only PDF export"
+  },
+  "identical_to_approved_render": {
+    "page-*.png": true,
+    "page-*.txt": true
+  },
+  "sha256": "797a3563f9d79acb77d41ef63ea2226f07c9b12f5f0c55f001b760060f776f5f"
+}

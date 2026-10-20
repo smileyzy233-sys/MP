@@ -1,0 +1,33 @@
+{
+  "target": "A:\\桌面\\study\\企业微观层面_v3.35.docx",
+  "sha256": "8439ae256dbfca5a23ec44c1486fdf68e150d6bb8d0a7c5233fd175ce48feba9",
+  "pages": 19,
+  "actual_current_opened_in_microsoft_word": true,
+  "candidate_and_final_all_page_images_and_text_identical": true,
+  "native_math_objects": 69,
+  "numbered_equations": 16,
+  "editable_tables_including_flowchart": 3,
+  "header_empty": true,
+  "footer_preserved": true,
+  "keepNext_keepLines_pageBreakBefore_disabled_in_all_parts_and_styles": true,
+  "verification_checks_passed": 49,
+  "idea_source_unchanged": {
+    "path": "A:\\桌面\\study\\思路.docx",
+    "sha256": "7c05568616604b00fae2829bad64938ff509ea5a2b87d8b00a71b2f548d152e9",
+    "unchanged": true
+  },
+  "visual_review": "Root reviewed pages 1–9 and 19; variables_qa reviewed 10–18; root additionally checked revised 7,14,15. Actual current all 19 page PNG/text identical to reviewed render.",
+  "data_matching_regression_structural_solution_executed": false,
+  "agents": [
+    "coal_example: source/example check",
+    "terminology_back: terminology review",
+    "variables_qa: semantic and visual QA"
+  ],
+  "skills": [
+    "researchwrite",
+    "nature-polishing",
+    "docx",
+    "agent-reach",
+    "pdf"
+  ]
+}

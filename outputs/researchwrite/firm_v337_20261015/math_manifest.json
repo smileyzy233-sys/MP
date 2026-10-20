@@ -1,0 +1,298 @@
+[
+  {
+    "tex": "\\mathrm{Restrict}_{ft}",
+    "text": "Restrictft"
+  },
+  {
+    "tex": "Q_{ft}",
+    "text": "Qft"
+  },
+  {
+    "tex": "f",
+    "text": "f"
+  },
+  {
+    "tex": "t",
+    "text": "t"
+  },
+  {
+    "tex": "R_{ft}",
+    "text": "Rft"
+  },
+  {
+    "tex": "\\mathrm{Restrict}_{ft}=1",
+    "text": "Restrictft=1"
+  },
+  {
+    "tex": "f",
+    "text": "f"
+  },
+  {
+    "tex": "t",
+    "text": "t"
+  },
+  {
+    "tex": "Q_{ft}",
+    "text": "Qft"
+  },
+  {
+    "tex": "Z_{ft}",
+    "text": "Zft"
+  },
+  {
+    "tex": "X_{ft}",
+    "text": "Xft"
+  },
+  {
+    "tex": "\\alpha_f",
+    "text": "αf"
+  },
+  {
+    "tex": "\\lambda_t",
+    "text": "λt"
+  },
+  {
+    "tex": "\\gamma",
+    "text": "γ"
+  },
+  {
+    "tex": "\\exp(\\beta)-1",
+    "text": "exp(β)−1"
+  },
+  {
+    "tex": "\\exp(-\\beta)-1",
+    "text": "exp(−β)−1"
+  },
+  {
+    "tex": "b(f)",
+    "text": "b(f)"
+  },
+  {
+    "tex": "r(f)",
+    "text": "r(f)"
+  },
+  {
+    "tex": "\\theta_{b(f),t}",
+    "text": "θb(f),t"
+  },
+  {
+    "tex": "\\eta_{r(f),t}",
+    "text": "ηr(f),t"
+  },
+  {
+    "tex": "\\mathrm{Restrict}",
+    "text": "Restrict"
+  },
+  {
+    "tex": "L_{ft}",
+    "text": "Lft"
+  },
+  {
+    "tex": "\\beta\\mathrm{Restrict}_{ft}",
+    "text": "βRestrictft"
+  },
+  {
+    "tex": "K",
+    "text": "K"
+  },
+  {
+    "tex": "\\ell=0",
+    "text": "ℓ=0"
+  },
+  {
+    "tex": "D_{ft}^{F}",
+    "text": "DftF"
+  },
+  {
+    "tex": "Y_{ft}^{F}",
+    "text": "YftF"
+  },
+  {
+    "tex": "Y_{ft}^{D}",
+    "text": "YftD"
+  },
+  {
+    "tex": "\\mathcal{B}_{jt}",
+    "text": "ℬjt"
+  },
+  {
+    "tex": "j",
+    "text": "j"
+  },
+  {
+    "tex": "\\omega_{ft}",
+    "text": "ωft"
+  },
+  {
+    "tex": "\\omega_{ft}=1",
+    "text": "ωft=1"
+  },
+  {
+    "tex": "c",
+    "text": "c"
+  },
+  {
+    "tex": "Q_{ct}",
+    "text": "Qct"
+  },
+  {
+    "tex": "a=0",
+    "text": "a=0"
+  },
+  {
+    "tex": "a=1",
+    "text": "a=1"
+  },
+  {
+    "tex": "t^{*}",
+    "text": "t*"
+  },
+  {
+    "tex": "F^{a}_{j,t^{*}}",
+    "text": "Fj,t*a"
+  },
+  {
+    "tex": "D^{a}_{j,t^{*}}",
+    "text": "Dj,t*a"
+  },
+  {
+    "tex": "100\\mu_j",
+    "text": "100μj"
+  },
+  {
+    "tex": "i",
+    "text": "i"
+  },
+  {
+    "tex": "m",
+    "text": "m"
+  },
+  {
+    "tex": "n",
+    "text": "n"
+  },
+  {
+    "tex": "j",
+    "text": "j"
+  },
+  {
+    "tex": "C",
+    "text": "C"
+  },
+  {
+    "tex": "\\xi_{im}^{j}",
+    "text": "ξimj"
+  },
+  {
+    "tex": "t^{*}",
+    "text": "t*"
+  },
+  {
+    "tex": "X_{nCm}^{j}",
+    "text": "XnCmj"
+  },
+  {
+    "tex": "m",
+    "text": "m"
+  },
+  {
+    "tex": "n",
+    "text": "n"
+  },
+  {
+    "tex": "X",
+    "text": "X"
+  },
+  {
+    "tex": "X/\\tau",
+    "text": "Xτ"
+  },
+  {
+    "tex": "\\tau_{nC}^{j}",
+    "text": "τnCj"
+  },
+  {
+    "tex": "j",
+    "text": "j"
+  },
+  {
+    "tex": "\\delta_j",
+    "text": "δj"
+  },
+  {
+    "tex": "\\delta_j<0",
+    "text": "δj<0"
+  },
+  {
+    "tex": "g",
+    "text": "g"
+  },
+  {
+    "tex": "\\mathcal{O}",
+    "text": "𝒪"
+  },
+  {
+    "tex": "G_{\\chi}(s;Z)",
+    "text": "Gχ(s;Z)"
+  },
+  {
+    "tex": "Z",
+    "text": "Z"
+  },
+  {
+    "tex": "s",
+    "text": "s"
+  },
+  {
+    "tex": "Z^{0}(\\delta)\\equiv Z^{0}",
+    "text": "Z0(δ)≡Z0"
+  },
+  {
+    "tex": "Z^{1}(\\delta)=G_{\\chi}(\\delta;Z^{0})",
+    "text": "Z1(δ)=Gχ(δ;Z0)"
+  },
+  {
+    "tex": "Z^{1}(\\delta)\\equiv Z^{1}",
+    "text": "Z1(δ)≡Z1"
+  },
+  {
+    "tex": "Z^{0}(\\delta)=G_{\\chi}(-\\delta;Z^{1})",
+    "text": "Z0(δ)=Gχ(−δ;Z1)"
+  },
+  {
+    "tex": "\\mathcal{D}",
+    "text": "𝒟"
+  },
+  {
+    "tex": "\\delta",
+    "text": "δ"
+  },
+  {
+    "tex": "\\mathcal{O}",
+    "text": "𝒪"
+  },
+  {
+    "tex": "g",
+    "text": "g"
+  },
+  {
+    "tex": "\\Omega",
+    "text": "Ω"
+  },
+  {
+    "tex": "J_R",
+    "text": "JR"
+  },
+  {
+    "tex": "\\mathrm{Restrict}_{ft}",
+    "text": "Restrictft"
+  },
+  {
+    "tex": "Q_{ft}",
+    "text": "Qft"
+  },
+  {
+    "tex": "R_{ft}",
+    "text": "Rft"
+  }
+]

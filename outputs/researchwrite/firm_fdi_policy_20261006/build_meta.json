@@ -1,0 +1,34 @@
+{
+  "output_path": "A:\\桌面\\study\\企业微观层面_新方案.docx",
+  "markdown_path": "A:\\桌面\\study\\企业微观层面_新方案.md",
+  "output_sha256": "bb72ba83fe246053ba7331decedcd3dc9435bf3761d90b9734772ba8fb389178",
+  "draft_sha256": "a37170ccfd8f7b0bf3b9b43dabb5c8b738bc8806d8852579cea773fa142d818b",
+  "native_math_objects": 87,
+  "display_equations": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14"
+  ],
+  "tables": 5,
+  "captions": [
+    "表A1 政策台账的核心字段",
+    "表A2 细活动限制向量",
+    "表A3 限制类型与可识别对象",
+    "表A4 反事实情景与实施边界",
+    "表A5 实施阶段与验收条件"
+  ],
+  "file_bytes": 56231,
+  "runtime": "Codex primary runtime 26.921.10847 bundled Python",
+  "math_conversion": "Task-local TeX subset to MathML and Microsoft Office MML2OMML.XSL"
+}

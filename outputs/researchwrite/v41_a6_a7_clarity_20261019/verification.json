@@ -1,0 +1,20 @@
+{
+  "checks": {
+    "all_other_parts_identical": true,
+    "A1_A5_and_front_exact": true,
+    "references_and_tail_exact": true,
+    "all_six_original_equations_exact": true,
+    "continuous_numbers": true,
+    "editable_example_table": true,
+    "example_explicitly_hypothetical": true,
+    "example_arithmetic": true,
+    "unaffected_scoring_preserved": true,
+    "no_enabled_pagination_flags": true,
+    "headers_blank": true,
+    "page_numbers_preserved": true,
+    "no_unconverted_tex_or_garbled": true,
+    "cost_and_scenario_explanations": true
+  },
+  "stage_sha256": "6fbb2397f095b11e08263c061b4dc5830dc89d9cbf9387553b2e89ed341fbbb5",
+  "native_omml": 60
+}

@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "source_unchanged": true,
+    "removed_generic_progress_and_audit_details": true,
+    "annual_panel_preserved": true,
+    "no_retired_design": true,
+    "equation_numbers": true,
+    "all_16_numbered_equations_native_and_unchanged": true,
+    "no_tex_or_corruption": true,
+    "editable_figure_and_tables": true,
+    "blank_header": true,
+    "page_field_and_footer_preserved": true,
+    "section_geometry_preserved": true,
+    "all_paragraph_parts_and_styles_disable_prohibited_controls": true,
+    "all_16_references_preserved": true,
+    "hyperlinks_valid": true,
+    "a1_to_a7_framework_preserved": true
+  },
+  "all_pass": true,
+  "output_sha256": "f7792b617b2237c50d42f25ac76a2fe0e25aa641ddc2e9e4532e45384554d271",
+  "source_characters": 19918,
+  "final_characters": 12942,
+  "text_reduction_pct": 35.0,
+  "numbered_equations": 16,
+  "native_math_objects": 90,
+  "ordinary_breaks": 5,
+  "bad_controls": []
+}

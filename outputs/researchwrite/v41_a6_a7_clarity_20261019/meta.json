@@ -1,0 +1,13 @@
+{
+  "input_sha256": "e24e3a2732c4405f5c0d8441bd1f716bddc2aa31d976f1533487c345be39e698",
+  "stage_sha256": "6fbb2397f095b11e08263c061b4dc5830dc89d9cbf9387553b2e89ed341fbbb5",
+  "changed_sections": [
+    "A.6",
+    "A.7"
+  ],
+  "forbidden_flag_parts_changed": [],
+  "prefix_nodes_preserved": 31,
+  "new_section_nodes": 19,
+  "native_omml": 60,
+  "editable_tables": 3
+}

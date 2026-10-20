@@ -1,0 +1,213 @@
+{
+  "target": "A:\\桌面\\study\\企业微观层面_v3.35.docx",
+  "sha256": "797a3563f9d79acb77d41ef63ea2226f07c9b12f5f0c55f001b760060f776f5f",
+  "all_passed": true,
+  "checks": [
+    {
+      "check": "DOCX ZIP intact",
+      "passed": true
+    },
+    {
+      "check": "All paragraph positions preserved",
+      "passed": true
+    },
+    {
+      "check": "Untargeted paragraphs byte-identical",
+      "passed": true
+    },
+    {
+      "check": "All 69 native math objects unchanged",
+      "passed": true
+    },
+    {
+      "check": "Footer unchanged",
+      "passed": true
+    },
+    {
+      "check": "All header parts deleted",
+      "passed": true
+    },
+    {
+      "check": "No header references",
+      "passed": true
+    },
+    {
+      "check": "Styles unchanged",
+      "passed": true
+    },
+    {
+      "check": "Three editable tables preserved",
+      "passed": true
+    },
+    {
+      "check": "Hyperlinks preserved",
+      "passed": true
+    },
+    {
+      "check": "word/document.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/document.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/document.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/styles.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/styles.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/styles.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/stylesWithEffects.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/stylesWithEffects.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/stylesWithEffects.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/settings.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/settings.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/settings.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/webSettings.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/webSettings.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/webSettings.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/fontTable.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/fontTable.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/fontTable.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/theme/theme1.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/theme/theme1.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/theme/theme1.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/numbering.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/numbering.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/numbering.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "word/footer1.xml: keepNext disabled",
+      "passed": true
+    },
+    {
+      "check": "word/footer1.xml: keepLines disabled",
+      "passed": true
+    },
+    {
+      "check": "word/footer1.xml: pageBreakBefore disabled",
+      "passed": true
+    },
+    {
+      "check": "Removed previous policy rule: 有业务资料与仅有行业代码的识别方式",
+      "passed": true
+    },
+    {
+      "check": "Removed previous policy rule: 若仅部分活动受到放宽",
+      "passed": true
+    },
+    {
+      "check": "Removed previous policy rule: 具体活动未知时，处理身份记为未知",
+      "passed": true
+    },
+    {
+      "check": "Removed previous policy rule: 同一四位小类内有可核实的业务或条件差异时",
+      "passed": true
+    },
+    {
+      "check": "Removed previous policy rule: 企业具体产品及政策待遇仍需业务资料识别",
+      "passed": true
+    },
+    {
+      "check": "Required policy method: 识别改革前所属类别的政策暴露",
+      "passed": true
+    },
+    {
+      "check": "Required policy method: 依据行业类别名称识别政策暴露",
+      "passed": true
+    },
+    {
+      "check": "Required policy method: 同一分类版本、同一类别名称及同一匹配口径",
+      "passed": true
+    },
+    {
+      "check": "Required policy method: 名称匹配结果、改革前后的限制状态及实际放宽结论分列保存",
+      "passed": true
+    },
+    {
+      "check": "Required policy method: 将整个行业类别纳入相应条款的政策覆盖范围",
+      "passed": true
+    },
+    {
+      "check": "No placeholder leakage",
+      "passed": true
+    },
+    {
+      "check": "No replacement glyph",
+      "passed": true
+    },
+    {
+      "check": "v3.3 original preserved",
+      "passed": true
+    },
+    {
+      "check": "Previous revision note preserved",
+      "passed": true
+    }
+  ],
+  "changed_paragraphs": 60,
+  "cannot_count_after": 0
+}

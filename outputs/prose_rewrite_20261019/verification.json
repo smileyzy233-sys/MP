@@ -1,0 +1,34 @@
+{
+  "checks": {
+    "source_unchanged": true,
+    "reference_unchanged": true,
+    "output_matches_build": true,
+    "word_render_matches_output": true,
+    "all_60_math_objects_preserved": true,
+    "6_equation_numbers": true,
+    "A1_A7_headings_preserved": true,
+    "all_3_editable_tables": true,
+    "score_and_example_tables_unchanged": true,
+    "references_and_links_unchanged": true,
+    "citations_preserved": true,
+    "pagination_flags_disabled": true,
+    "no_placeholder_or_replacement_char": true,
+    "other_package_parts_unchanged": true,
+    "zip_valid": true,
+    "seven_page_images": true
+  },
+  "passed": 16,
+  "source_characters": 5858,
+  "output_characters": 6756,
+  "visual_review": "7 pages inspected; A.6 heading moved with ordinary page break; formulas, table captions, tables, flow diagram, references and page numbers readable; no clipping or isolated heading",
+  "skills": [
+    "nature-polishing",
+    "docx",
+    "documents"
+  ],
+  "agents": [
+    "prose_a1_a4: draft A.1-A.4",
+    "style_audit: reference style and semantic comparison"
+  ],
+  "remaining_scope": "Writing revision only; no empirical analysis or external policy re-verification performed."
+}
